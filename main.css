@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 #contentfloatholder {
 	float: left;
 	width: 100%;
-	background: url(/images/p3-right-border3.gif) repeat-y 100% 0; /* right faux column tab */
+	background: url(images/p3-right-border3.gif) repeat-y 100% 0; /* right faux column tab */
 }
 
 #contentfloatholder:after {
@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header {
-	background: #667 url(/images/perrin3-top.gif) no-repeat;
+	background: #667 url(images/perrin3-top.gif) no-repeat;
 	color: #fff;
 	height: 70px;
 }
@@ -129,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #subnav, #footer {
-	background: url(/images/p3-right-border3.gif) repeat-y 100% 0;
+	background: url(images/p3-right-border3.gif) repeat-y 100% 0;
 	color: #eee;
 	font-size: 0.76em;
 }
@@ -139,7 +139,7 @@ h1, h2, h3, h4, h5, h6 {
 #wrapper {
 	width: 90%;
 	margin: 0 auto;
-	background: #445 url(/images/p3-right-border3.gif) repeat-y 100% 0;
+	background: #445 url(images/p3-right-border3.gif) repeat-y 100% 0;
 	font-size: 0.86em;
 	text-align: left;
 }
