@@ -1,0 +1,254 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title><$MTArchiveTitle$>: <$MTBlogName encode_html="1"$></title>
+<meta http-equiv="Content-Type" content="text/html; charset=<$MTPublishCharset$>" />
+
+<$MTInclude module="head RSS"$>
+
+<MTBlogIfCCLicense>
+<$MTCCLicenseRDF$>
+</MTBlogIfCCLicense>
+
+<$MTInclude module="head CSS"$>
+<link rel="stylesheet" type="text/css" media="screen,print" href="<$MTBlogURL$>individual.css" />
+
+<link rel="start" href="<$MTBlogURL$>" title="Home" />
+<MTEntryPrevious>
+<link rel="prev" href="<$MTEntryPermalink$>" title="<$MTEntryTitle encode_html="1"$>" />
+</MTEntryPrevious>
+<MTEntryNext>
+<link rel="next" href="<$MTEntryPermalink$>" title="<$MTEntryTitle encode_html="1"$>" />
+</MTEntryNext>
+<MTInclude module="Remember Me">
+
+<$MTEntryTrackbackData$>
+</head>
+<body>
+<div id="wrapper">
+
+<div id="header"><!-- header text - 70px high --></div>
+<MTInclude module="individual subnav">
+<div id="contentfloatholder">
+
+<div id="centerwrap">
+<div id="center" class="inset">
+<b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b>
+<div class="boxcontent">
+
+<h2><$MTEntryTitle$></h2>
+
+<$MTEntryBody$>
+
+<div id="a<$MTEntryID pad="1"$>more"><div id="more">
+<$MTEntryMore$>
+</div></div>
+
+<p class="posted">Posted by <$MTEntryAuthor$> at <$MTEntryDate$><br />
+<!-- Social bookmarks -->
+<a href="http://del.icio.us/post?url=<$MTEntryPermalink$>&title=<$MTEntryTitle$>"><img src="/images/buttons/delicious.png" width="16" height="16" alt="Post to del.icio.us" border="0" /> del.icio.us</a> | <a href="http://digg.com/submit?phase=2&url=<$MTEntryPermalink$>&title=<$MTEntryTitle$>"><img src="/images/buttons/digg.png" width="16" height="16" border="0" alt="Digg this!" /> Digg this</a> | <a href="http://www.furl.net/storeIt.jsp?t=<$MTEntryTitle$>&u=<$MTEntryPermalink$>"><img src="/images/buttons/furl.png" width="16" height="16" border="0" alt="Furl" /> Furl</a> | <a href="http://www.stumbleupon.com/submit?url=<$MTEntryPermalink$>&title=<$MTEntryTitle$>"><img src="/images/buttons/stumbleupon.png" width="16" height="16" border="0" alt="StumbleUpon" /> StumbleUpon</a> | <a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?t=<$MTEntryTitle$>&u=<$MTEntryPermalink$>"><img src="/images/buttons/yahoo.png" width="16" height="16" border="0" alt="Yahoo MyWeb" /> Yahoo MyWeb</a> | <a href="http://www.google.com/bookmarks/mark?op=edit&bkmk=<$MTEntryPermalink$>&title=<$MTEntryTitle$>"><img src="/images/buttons/google-bookmark.png" width="16" height="16" border="0" alt="Google bookmarks" /> Google</a>
+<!-- Social bookmarks end -->
+</p>
+
+<MTEntryIfAllowPings>
+<h2 id="trackbacks">Trackback Pings</h2>
+<p class="techstuff">TrackBack URL for this entry:<br />
+<$MTEntryTrackbackLink$></p>
+
+<MTIfNonZero tag="MTEntryTrackbackCount">
+<p>Listed below are links to weblogs that reference <a href="<$MTEntryPermalink$>"><$MTEntryTitle$></a>:</p>
+
+<MTPings>
+<p id="p<$MTPingID$>">
+&raquo; <a href="<$MTPingURL$>"><$MTPingTitle$></a> from <$MTPingBlogName$><br />
+<$MTPingExcerpt$> <a href="<$MTPingURL$>">[Read More]</a>
+</p>
+<p class="posted">Tracked on <$MTPingDate$></p>
+</MTPings>
+</MTIfNonZero>
+</MTEntryIfAllowPings>
+
+<MTEntryIfAllowComments>
+
+<h2 id="comments">Comments</h2>
+
+<MTComments>
+<div id="c<$MTCommentID$>">
+<$MTCommentBody$>
+</div>
+<p class="posted">Posted by: <$MTCommentAuthorLink default_name="Anonymous" spam_protect="1"$> <MTCommentAuthorIdentity> at <$MTCommentDate$></p>
+</MTComments>
+
+<MTEntryIfCommentsOpen>
+
+<MTIfCommentsAllowed>
+
+<h3>Post a comment</h3>
+
+<MTIfRegistrationRequired>
+
+<div id="thanks">
+<p>Thanks for signing in, 
+<script type="text/javascript" src="<MTCGIPath><MTCommentScript>?__mode=cmtr_name_js"></script><script>document.write(commenter_name);</script>.
+Now you can comment. (<a href="<$MTRemoteSignOutLink static="1"$>">sign out</a>)</p>
+
+<p>(If you haven't left a comment here before, you may need to be approved by the site owner before your comment will appear. Until then, it won't appear on the entry. Thanks for waiting.)</p>
+
+<form method="post" action="<$MTCGIPath$><$MTCommentScript$>" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="<$MTEntryID$>" />
+
+<p><label for="url">URL:</label><br />
+<input tabindex="1" type="text" name="url" id="url" />
+Remember me?
+<input type="radio" id="remember" name="bakecookie" /><label for="remember">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" />
+
+</p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="2" id="text" name="text" rows="10" cols="50" onkeypress="keystrokes(this.form)"></textarea></p>
+
+<div align="center">
+<input type="submit" tabindex="3" name="preview" value="&nbsp;Preview&nbsp;" />
+<input style="font-weight: bold;" tabindex="4" type="submit" onclick="keystrokes(this.form)" name="post" value="&nbsp;Post&nbsp;" />
+</div>
+</form>
+
+</div>
+
+<script language="javascript" type="text/javascript">
+<!--
+if (commenter_name) {
+    document.getElementById('thanks').style.display = 'block';
+} else {
+    document.write('<p>You are not signed in. You need to be registered to comment on this site. <a href="<$MTRemoteSignInLink static="1"$>"> Sign in</a></p>');
+    document.getElementById('thanks').style.display = 'none';
+}
+// -->
+</script>
+
+<MTElse> <MTTemplateNote value="Case of registration not required">
+
+<MTIfRegistrationAllowed>
+<script type="text/javascript" src="<MTCGIPath><MTCommentScript>?__mode=cmtr_name_js"></script>
+<script language="javascript" type="text/javascript">
+<!--
+if (commenter_name) {
+    document.write('<p>Thanks for signing in, ', commenter_name, '. Now you can comment. (<a href="<$MTRemoteSignOutLink static="1"$>">sign out</a>)</p>');
+} else {
+    document.write('<p>If you have a TypeKey identity, you can <a href="<$MTRemoteSignInLink static="1"$>"> sign in</a> to use it here.</p>');
+}
+// -->
+</script>
+</MTIfRegistrationAllowed>
+
+<form method="post" action="<$MTCGIPath$><$MTCommentScript$>" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="<$MTEntryID$>" />
+
+<div id="name_email">
+<p><label for="author">Name:</label><br />
+<input tabindex="1" id="author" name="author" /></p>
+
+<p><label for="email">Email Address:</label><br />
+<input tabindex="2" id="email" name="email" /></p>
+</div>
+
+<MTIfRegistrationAllowed>
+<script language="javascript" type="text/javascript">
+<!--
+if (commenter_name) {
+    document.getElementById('name_email').style.display = 'none';
+}
+// -->
+</script>
+</MTIfRegistrationAllowed>
+
+<p><label for="url">URL:</label><br />
+<input tabindex="3" type="text" name="url" id="url" />
+Remember Me?
+<input type="radio" id="remember" onclick="rememberMe(this.form)" name="bakecookie" /><label for="remember">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" />
+</p>
+
+<p><label for="text">Comments:</label> <MTIfAllowCommentHTML>
+(you may use HTML tags for style)</MTIfAllowCommentHTML><br/>
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<div align="center">
+<input type="submit" name="preview" tabindex="5" 
+    value="&nbsp;Preview&nbsp;" />
+<input style="font-weight: bold;" type="submit" name="post" 
+    tabindex="6" value="&nbsp;Post&nbsp;" />
+</div>
+</form>
+
+</MTElse>
+
+</MTIfRegistrationRequired>
+</MTIfCommentsAllowed>
+
+<script type="text/javascript" language="javascript">
+<!--
+if (document.comments_form.email != undefined)
+    document.comments_form.email.value = getCookie("mtcmtmail");
+if (document.comments_form.author != undefined)
+    document.comments_form.author.value = getCookie("mtcmtauth");
+if (document.comments_form.url != undefined)
+    document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth") || getCookie("mtcmthome")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</MTEntryIfCommentsOpen>
+
+</MTEntryIfAllowComments>
+
+</div><!-- end boxcontent -->
+<b class="b4b"></b><b class="b3b"></b><b class="b2b"></b><b class="b1b"></b>
+</div><!-- end center -->
+</div><!-- end centerwrap -->
+
+<div id="right">
+<h3>Topics</h3>
+<MTSetVar name="mgs_cat" value="">
+
+<MTIfNonEmpty tag="MTArchiveCategory">
+<MTTagInvoke tag_name="MTSetVar" name="mgs_cat">
+<MTTagInvokeAttribute name="value"><MTArchiveCategory></MTTagInvokeAttribute>
+</MTTagInvoke>
+</MTIfNonEmpty>
+
+<ul class="menu">
+<li><a href="<$MTBlogURL$>">Home</a></li>
+<MTTopLevelCategories>
+ <li><a  <MTIfEqual a="[MTGetVar name='mgs_cat']" b="[MTCategoryLabel]">
+id="current"</MTIfEqual> href="<$MTCategoryArchiveLink$>" title="<MTCategoryLabel>"><MTCategoryLabel></a></li>
+</MTTopLevelCategories>
+<li><a href="<$MTBlogURL$>contact/">Contact</a></li>
+</ul>
+
+<h3>Private</h3>
+<$MTInclude module="Private Links"$>
+
+<h3>Feeds</h3>
+<$MTInclude module="Feeds sidebar"$>
+
+</div><!-- end right -->
+
+<div id="left">
+&nbsp;
+</div><!-- end left -->
+
+</div><!-- end contentfloatholder -->
+
+<div id="footer" class="ctr">
+<$MTInclude module="footer"$>
+</div><!-- end footer -->
+</div><!-- end wrapper -->
+</body>
+</html>

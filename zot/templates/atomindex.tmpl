@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="<$MTPublishCharset$>"?>
+<feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
+<title><$MTBlogName remove_html="1" encode_xml="1"$></title>
+<link rel="alternate" type="text/html" href="<$MTBlogURL encode_xml="1"$>" />
+<modified><MTEntries lastn="1"><$MTEntryModifiedDate utc="1" format="%Y-%m-%dT%H:%M:%SZ"$></MTEntries></modified>
+<tagline><$MTBlogDescription remove_html="1" encode_xml="1"$></tagline>
+<id>tag:<$MTBlogHost exclude_port="1" encode_xml="1"$>,<$MTDate format="%Y"$>:<$MTBlogRelativeURL encode_xml="1"$>/<$MTBlogID$></id>
+<generator url="http://www.movabletype.org/" version="<$MTVersion$>">Movable Type</generator>
+<copyright><MTEntries lastn="1">Copyright (c) <$MTEntryDate format="%Y"$>, <$MTEntryAuthor encode_xml="1"$></MTEntries></copyright>
+<MTEntries lastn="15">
+<entry>
+<title><$MTEntryTitle remove_html="1" encode_xml="1"$></title>
+<link rel="alternate" type="text/html" href="<$MTEntryPermalink encode_xml="1"$>" />
+<modified><$MTEntryModifiedDate utc="1" format="%Y-%m-%dT%H:%M:%SZ"$></modified>
+<issued><$MTEntryDate utc="1" format="%Y-%m-%dT%H:%M:%SZ"$></issued>
+<id>tag:<$MTBlogHost exclude_port="1" encode_xml="1"$>,<$MTEntryDate format="%Y">:<$MTBlogRelativeURL encode_xml="1"$>/<$MTBlogID$>.<$MTEntryID$></id>
+<created><$MTEntryDate utc="1" format="%Y-%m-%dT%H:%M:%SZ"$></created>
+<summary type="text/plain"><$MTEntryExcerpt remove_html="1" encode_xml="1"$></summary>
+<author>
+<name><$MTEntryAuthor encode_xml="1"$></name>
+<MTIfNonEmpty tag="MTEntryAuthorURL"><url><$MTEntryAuthorURL encode_xml="1"$></url></MTIfNonEmpty>
+<MTIfNonEmpty tag="MTEntryAuthorEmail"><email><$MTEntryAuthorEmail encode_xml="1"$></email></MTIfNonEmpty>
+</author>
+<MTIfNonEmpty tag="MTEntryCategory"><dc:subject><$MTEntryCategory encode_xml="1"$></dc:subject></MTIfNonEmpty>
+<content type="text/html" mode="escaped" xml:lang="en" xml:base="<$MTBlogURL encode_xml="1"$>">
+<$MTEntryBody encode_xml="1"$>
+<$MTEntryMore encode_xml="1"$>
+</content>
+</entry>
+</MTEntries>
+</feed>

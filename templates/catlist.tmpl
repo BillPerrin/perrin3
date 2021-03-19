@@ -1,0 +1,16 @@
+<h3>Topics</h3>
+<MTSetVar name="mgs_cat" value="">
+
+<MTIfNonEmpty tag="MTArchiveTitle">
+<MTTagInvoke tag_name="MTSetVar" name="mgs_cat">
+<MTTagAttribute name="value"><MTArchiveTitle></MTTagAttribute>
+</MTTagInvoke>
+</MTIfNonEmpty>
+
+<ul class="menu">
+<li><a id="current" href="<$MTBlogURL$>">Home</a></li>
+<MTTopLevelCategories>
+ <li><a  <MTIfEqual a="[MTGetVar name='mgs_cat']" b="[MTCategoryLabel]">
+id="current"</MTIfEqual> href="<$MTCategoryArchiveLink$>" title="<$MTCategoryDescription$>"><MTCategoryLabel></a></li>
+</MTTopLevelCategories>
+</ul>

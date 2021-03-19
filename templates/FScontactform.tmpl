@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Contact Bill Perrin</title>
+<meta name="description" content="Use this form to send Bill Perrin a message" />
+<meta name="keywords" content="email e-mail contact form" />
+<meta http-equiv="Content-Type" content="text/html; charset=<$MTPublishCharset$>" />
+<script type="text/javascript" src="/contact-files/contact-form.js"></script>
+
+<$MTInclude module="head RSS"$>
+
+<MTBlogIfCCLicense>
+<$MTCCLicenseRDF$>
+</MTBlogIfCCLicense>
+
+<$MTInclude module="head CSS"$>
+<link rel="stylesheet" type="text/css" media="screen,print" href="<$MTBlogURL$>individual.css" />
+</head>
+<body>
+<div id="wrapper">
+
+<div id="header"><!-- header text - 70px high --></div>
+<div id="subnav">
+<span><a href="<$MTBlogURL$>">Home</a> :</span>
+</div><!-- end subnav -->
+
+<div id="contentfloatholder">
+
+<div id="centerwrap">
+<div id="center" class="inset">
+<b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b>
+<div class="boxcontent">
+
+<h1>Contact</h1>
+
+<?php
+$contact_form = 1; // set desired form number.
+$contact_form_path = '/home/jperrain/public_html/perrin3/contact-files/'; // set path to /contact-files/ with slash on end.
+require $contact_form_path . 'contact-form-run.php';
+?>
+
+<br />
+</div><!-- end boxcontent -->
+<b class="b4b"></b><b class="b3b"></b><b class="b2b"></b><b class="b1b"></b>
+</div><!-- end center -->
+</div><!-- end centerwrap -->
+
+<div id="right">
+<h3>Topics</h3>
+
+<ul class="menu">
+<li><a href="<$MTBlogURL$>">Home</a></li>
+<MTTopLevelCategories>
+ <li><a href="<$MTCategoryArchiveLink$>" title="<MTCategoryLabel>"><MTCategoryLabel></a></li>
+</MTTopLevelCategories>
+<li><a id="current" href="<$MTBlogURL$>contact/">Contact</a></li>
+</ul>
+
+<h3>Private</h3>
+<$MTInclude module="Private Links"$>
+
+<h3>Feeds</h3>
+<$MTInclude module="Feeds sidebar"$>
+
+</div><!-- end right -->
+
+<div id="left">
+&nbsp;
+</div><!-- end left -->
+
+</div><!-- end contentfloatholder -->
+
+<div id="footer" class="ctr">
+<$MTInclude module="footer"$>
+</div><!-- end footer -->
+</div><!-- end wrapper -->
+</body>
+</html>
+
+

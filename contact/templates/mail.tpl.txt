@@ -1,0 +1,16 @@
+MIME-Version: 1.0
+Content-type: text/plain; charset={txt_charset}
+To: "Bill Perrin" <contact.form@perrin3.com>
+From: "{firstname} {lastname}" <{email}>
+Subject: {subject}
+
+{comment}
+
+
+
+----------------------------
+{env_year}-{env_month}-{env_day} ({env_hour}:{env_minute}:{env_second})
+
+{env_remote_address} ({env_remote_host})
+
+{env_user_agent}

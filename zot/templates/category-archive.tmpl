@@ -1,0 +1,61 @@
+<$MTInclude module="DTD"$>
+
+<head>
+<title><$MTBlogName encode_html="1"$>: <$MTArchiveTitle$></title>
+<$MTInclude module="Header Links"$>
+</head>
+
+<body>
+<div id="header">
+<$MTInclude module="Top Banner"$>
+</div>
+
+<div id="wrapper">
+<div id="container">
+<div id="content">
+
+<h1><$MTArchiveCategory$></h1>
+
+<MTEntries>
+<$MTEntryTrackbackData$>
+
+<h2 id="a<$MTEntryID pad="1"$>"><$MTEntryTitle$></h2>
+
+<$MTEntryBody$>
+
+<MTEntryIfExtended>
+<$MTEntryMore$>
+</MTEntryIfExtended>
+
+<p class="posted">
+Posted by <$MTEntryAuthor$> at <a href="<$MTEntryPermalink valid_html="1"$>"><$MTEntryDate format="%x"$></a>
+<MTEntryIfAllowComments>
+| <a href="<$MTEntryPermalink archive_type="Individual"$>#comments">Comments (<$MTEntryCommentCount$>)</a>
+</MTEntryIfAllowComments>
+<MTEntryIfAllowPings>
+| <a href="<$MTEntryPermalink archive_type="Individual"$>#trackbacks">TrackBack</a>
+</MTEntryIfAllowPings>
+</p>
+
+</MTEntries>
+
+<p class="last centertext piclink"><a class="piclink" href="http://www.thecure.jp/petition/en/">
+<img src="/images/cure_banner1l.gif" alt="Petition for The Cure Live in Japan" width="348" height="63" /></a></p>
+</div>
+</div>
+
+<div id="sidebar">
+
+<$MTInclude module="Sidebar 1"$>
+
+</div>
+<div class="clearing">&nbsp;</div>
+</div>
+
+<div id="footer">
+<$MTInclude module="Footer"$>
+</div>
+
+</body>
+</html>
+

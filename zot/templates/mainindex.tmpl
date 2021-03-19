@@ -1,0 +1,86 @@
+<$MTInclude module="DTD"$>
+
+<head>
+<title><$MTBlogName encode_html="1"$></title>
+<$MTInclude module="Header Links"$>
+<MTBlogIfCCLicense>
+<$MTCCLicenseRDF$>
+</MTBlogIfCCLicense>
+
+</head>
+
+<body>
+<div id="header">
+<$MTInclude module="Top Banner"$>
+</div>
+
+<div id="wrapper">
+<div id="container">
+<div id="content">
+
+<h1>Zot</h1>
+<p>Back in the good old days you could drop into the local record shop and pick up an album from a band with a weird name...and it would be great. The self entitled Zot album by the band named Zot was one of those great finds of the 80s.</p>
+<p class="caption">(top banner photo features [from left to right] Chris Stewart, Tom Calderaro, Bryant Simpson, Randy Wayne, Andy Thomas, Pat Knowles. Circa 1985.)</p>
+<hr />
+<div style="float:left;">
+<h2><a name="Members">Zot Members</a></h2>
+<p><b>Randy Wayne</b>: Vocals, keyboards<br />
+<b>Patrick Knowles</b>: Guitar, vocals<br />
+<b>Chris Stewart</b>: Drums, vocals<b><br />
+Bryant Simpson</b>: Bass, vocals</p>
+</div>
+<div style="float:right;"><p>others:</p>
+<p><b>Tom Calderaro</b>: Keyboards, arranger<br />
+<b>Andy Thomas</b>: Synth, PPG<br />
+<b>Eric Merienthal</b>: Saxaphone<br />
+<b>Dave Diamond</b>: Synth</p>
+</div>
+<hr style="clear:both;"/>
+
+<h1>Recent Entries</h1>
+<MTEntries lastn="5">
+<$MTEntryTrackbackData$>
+
+<h2 id="a<$MTEntryID pad="1"$>"><$MTEntryTitle$></h2>
+
+<$MTEntryBody$>
+
+<MTEntryIfExtended>
+<p class="extended"><a href="<$MTEntryPermalink$>#more">Continue reading "<$MTEntryTitle$>"</a></p>
+</MTEntryIfExtended>
+
+<p class="posted">Posted by <$MTEntryAuthor$> at <a href="<$MTEntryPermalink valid_html="yes"$>"><$MTEntryDate format="%x"$></a>
+<MTEntryIfAllowComments>
+| <a href="<$MTEntryPermalink archive_type="Individual"$>#comments">Comments (<$MTEntryCommentCount$>)</a>
+</MTEntryIfAllowComments>
+<MTEntryIfAllowPings>
+| <a href="<$MTEntryPermalink archive_type="Individual"$>#trackbacks">TrackBack (<$MTEntryTrackbackCount$>)</a>
+</MTEntryIfAllowPings>
+</p>
+
+</MTEntries>
+<hr />
+
+<h2><a name="Thanks">Special Thanks:</a></h2>
+<p>A fellow Zot fan, Jeff Baker, found an ancient post I made about Zot on the New Wave Outpost&apos;s <a href="http://www.nwoutpost.com/videos.asp?start=S&amp;end=ZZZ">Music Videos Wish List</a> when I was looking for Zot's "Uranium" video. Jeff was kind enough to mail a Zot CD all the way to Japan. He made a very good copy of his Zot album as my cassette tape had bitten the dust years earlier. He also sent me the picture and news about Patrick Knowles. Thanks Jeff.</p>
+<p>Do you have any news, info, images, audio or video of Zot?
+<a href="/contact/">Send me a message</a> from my contact form and help me add to this site. </p>
+<p class="last centertext piclink"><a class="piclink" href="http://www.thecure.jp/petition/en/">
+<img src="/images/cure_banner1l.gif" alt="Petition for The Cure Live in Japan" width="348" height="63" /></a></p>
+</div>
+</div>
+
+<div id="sidebar">
+
+<$MTInclude module="Sidebar 1"$>
+
+</div>
+<div class="clearing">&nbsp;</div>
+</div>
+
+<div id="footer">
+<$MTInclude module="Footer"$>
+</div>
+
+</body>
+</html>

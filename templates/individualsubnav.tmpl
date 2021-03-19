@@ -1,0 +1,15 @@
+<div id="subnav"><span>
+<a href="<$MTBlogURL$>">Home</a> : 
+<MTEntryCategories glue=", ">
+<MTParentCategories glue = " : ">
+<MTIfNonZero tag="MTCategoryCount">
+<a href="<$MTCategoryArchiveLink$>"
+title="<$MTCategoryDescription$>"><MTCategoryLabel></a>
+<MTElse>
+<MTCategoryLabel>
+</MTElse>
+</MTIfNonZero>
+</MTParentCategories>    
+</MTEntryCategories>
+ : <$MTEntryTitle$>
+</span></div><!-- end subnav -->

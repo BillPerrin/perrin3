@@ -1,0 +1,22 @@
+/* This is the StyleCatcher theme addition. Do not remove this block. */
+@import url(http://perr.in/mt-static/themes-base/blog.css);
+@import url(http://perr.in/mt-static/support/themes/cityscape-tokyo/cityscape-tokyo.css);
+/* end StyleCatcher imports */
+
+#header {
+	border-color: Yellow; 
+	background: #000 url(http://perrin3.com/images/zot/zot-banner-faces.jpg) no-repeat bottom right;
+	/*height: 250px;*/
+}
+
+#container,
+#container-inner,
+#content-inner,
+#content {
+    background: transparent;
+}
+
+#content-inner {
+	background: url(http://perrin3.com/images/zot/zot-statue.gif) white no-repeat fixed top right;
+}
+

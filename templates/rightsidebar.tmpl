@@ -1,0 +1,25 @@
+<h3>Topics</h3>
+<MTSetVar name="mgs_cat" value="">
+
+<MTIfNonEmpty tag="MTArchiveCategory">
+<MTTagInvoke tag_name="MTSetVar" name="mgs_cat">
+<MTTagInvokeAttribute name="value"><MTArchiveCategory></MTTagInvokeAttribute>
+</MTTagInvoke>
+</MTIfNonEmpty>
+
+<ul class="menu">
+<li><a href="<$MTBlogURL$>">Home</a></li>
+<MTTopLevelCategories>
+ <li><a  <MTIfEqual a="[MTGetVar name='mgs_cat']" b="[MTCategoryLabel]">
+id="current"</MTIfEqual> href="<$MTCategoryArchiveLink$>" title="<MTCategoryLabel>"><MTCategoryLabel></a></li>
+</MTTopLevelCategories>
+</ul>
+
+<h3>Private</h3>
+<ul class="menu">
+<li><a href="http://net.perr.in/">perr.in web</a></li>
+<li><a href="http://net.perr.in/">Photos & Videos</a></li>
+</ul>
+
+<h3>Feeds</h3>
+<$MTInclude module="Feeds sidebar"$>

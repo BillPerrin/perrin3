@@ -1,0 +1,354 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Howto remove/disable Nero Scout in Nero 8: perrin3.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link rel="alternate" type="application/atom+xml" title="Atom" href="/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="RSS 1.0" href="/index.rdf" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/index.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/rsd.xml" />
+
+
+
+<!-- the IE7 javascript is for IE min-width only in this example -->
+<!--[if lt IE 7]>
+<script src="/ie7/ie7-standard-p.js" type="text/javascript"></script>
+<style type="text/css" media="screen">
+#wrapper {word-wrap: break-word;} /* ie proprietary property to force long words to break rather than the layout */
+</style>
+<![endif]-->
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="stylesheet" type="text/css" media="screen,print" href="/main.css" />
+
+<link rel="stylesheet" type="text/css" media="screen,print" href="/individual.css" />
+
+<link rel="start" href="/" title="Home" />
+
+<link rel="prev" href="/japan/china-consulate-osaka/" title="Consulate General of China in Osaka" />
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+var HOST = 'perrin3.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + (expires ? "; expires=" + expires : "") + (path ? "; path=" + path : "") + (domain ? "; domain=" + domain : "") + (secure ? "secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    now = now.toGMTString();
+    if (f.author != undefined)
+       setCookie('mtcmtauth', f.author.value, now, '/', '', '');
+    if (f.email != undefined)
+       setCookie('mtcmtmail', f.email.value, now, '/', '', '');
+    if (f.url != undefined)
+       setCookie('mtcmthome', f.url.value, now, '/', '', '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '/', '');
+    deleteCookie('mtcmthome', '/', '');
+    deleteCookie('mtcmtauth', '/', '');
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+
+</head>
+<body>
+<div id="wrapper">
+
+<div id="header"><!-- header text - 70px high --></div>
+<div id="subnav"><span>
+<a href="/">Home</a> : 
+
+
+
+<a href="/tech/"
+title="Tech related topics">Tech</a>
+
+
+    
+
+ : Howto remove/disable Nero Scout in Nero 8
+</span></div><!-- end subnav -->
+<div id="contentfloatholder">
+
+<div id="centerwrap">
+<div id="center" class="inset">
+<b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b>
+<div class="boxcontent">
+
+<h2>Howto remove/disable Nero Scout in Nero 8</h2>
+
+<p>In the time that I've used Nero 8 I've found it seems to run more smoothly than its predecessor. However, one leftover still remains that I think is completely unnecessary, Nero Scout. If you search the web you'll find many pages telling you how to remove Nero Scout from Nero 7. It's a major system hog that will suck away your resources. </p>
+
+<div id="a000293more"><div id="more">
+<p>Fortunately with Nero 8 they've made it easier to remove Nero 8. The down-side of this is that the instructions on <a href="http://www.nero.com/eng/support-faq.html">Nero's support site</a> are completely useless:</p>
+
+<br /><br /><blockquote><i>How can I disable Nero Scout, or how can Nero Scout be removed from the task bar?
+You can either disable Nero Scout completly or you can only remove the “search” option from the task bar.
+
+</i><ul><li><i>Open "My Computer", make a right click on "Nero Scout", select "options".</i></li><li><i>Uncheck the box “enable Nero Scout” in order to disable Nero Scout.</i></li></ul><i>
+
+If you want to remove Nero Scout from the task bar, uncheck the box „Show NeroDesktop Search“.</i><br /></blockquote>
+
+<p>Wrong.</p>
+<p>Here's how it's done:</p>
+<p>From your <b>Start</b> menu (in XP or Vista) click on <b>All Programs</b>, then <b>Nero 8</b>, and then the <b>Nero Toolkit</b> and click on <b>Nero Scout</b>.</p>
+
+<span class="mt-enclosure mt-enclosure-image"><a href="/images/nero-8-scout.png"><img alt="nero-8-scout.png" src="/images/nero-8-scout-thumb-550x339.png" class="mt-image-center" style="margin: 0pt auto 20px; text-align: center; display: block;" height="339" width="550" /></a></span>
+
+<p>This will bring up the Nero Scout Options dialog box:</p>
+
+<span class="mt-enclosure mt-enclosure-image"><a href="/images/nero-8-scout-options.png"><img alt="nero-8-scout-options.png" src="/images/nero-8-scout-options-thumb-550x408.png" class="mt-image-center" style="margin: 0pt auto 20px; text-align: center; display: block;" height="408" width="550" /></a></span>
+
+<p>Simply uncheck the box that says <i>Enable Nero Scout</i>. This will shutdown these services:</p>
+<ul>
+<li>NMBgMonitor.exe </li>
+<li>NMIndexStoreSvr.exe</li>
+</ul>
+
+<p>After you reboot you should no longer see this service:</p>
+
+<ul>
+<li>NMIndexingService.exe</li>
+</ul>
+</div></div>
+
+<p class="posted">Posted by Bill at January  9, 2008  9:58 AM<br />
+<!-- Social bookmarks -->
+<a href="http://del.icio.us/post?url=http://perrin3.com/tech/howto-remove-nero-scout/&title=Howto remove/disable Nero Scout in Nero 8"><img src="/images/buttons/delicious.png" width="16" height="16" alt="Post to del.icio.us" border="0" /> del.icio.us</a> | <a href="http://digg.com/submit?phase=2&url=http://perrin3.com/tech/howto-remove-nero-scout/&title=Howto remove/disable Nero Scout in Nero 8"><img src="/images/buttons/digg.png" width="16" height="16" border="0" alt="Digg this!" /> Digg this</a> | <a href="http://www.furl.net/storeIt.jsp?t=Howto remove/disable Nero Scout in Nero 8&u=http://perrin3.com/tech/howto-remove-nero-scout/"><img src="/images/buttons/furl.png" width="16" height="16" border="0" alt="Furl" /> Furl</a> | <a href="http://www.stumbleupon.com/submit?url=http://perrin3.com/tech/howto-remove-nero-scout/&title=Howto remove/disable Nero Scout in Nero 8"><img src="/images/buttons/stumbleupon.png" width="16" height="16" border="0" alt="StumbleUpon" /> StumbleUpon</a> | <a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?t=Howto remove/disable Nero Scout in Nero 8&u=http://perrin3.com/tech/howto-remove-nero-scout/"><img src="/images/buttons/yahoo.png" width="16" height="16" border="0" alt="Yahoo MyWeb" /> Yahoo MyWeb</a> | <a href="http://www.google.com/bookmarks/mark?op=edit&bkmk=http://perrin3.com/tech/howto-remove-nero-scout/&title=Howto remove/disable Nero Scout in Nero 8"><img src="/images/buttons/google-bookmark.png" width="16" height="16" border="0" alt="Google bookmarks" /> Google</a>
+<!-- Social bookmarks end -->
+</p>
+
+
+
+
+
+<h2 id="comments">Comments</h2>
+
+
+<div id="c43406">
+<p>Doesn't work.</p>
+</div>
+<p class="posted">Posted by: Dave barker  at February 19, 2009  1:37 AM</p>
+
+<div id="c44015">
+<p>I've tried the procedure, doesn't work</p>
+</div>
+<p class="posted">Posted by: misterchip  at March 30, 2009  3:23 PM</p>
+
+<div id="c50182">
+<p>thanks, it's working in windows xp :)</p>
+</div>
+<p class="posted">Posted by: Alex  at June 29, 2010  3:47 AM</p>
+
+<div id="c50369">
+<p>Disable NVIndexing in 'Services' to completely disable.</p>
+</div>
+<p class="posted">Posted by: solution  at July 16, 2010  4:05 AM</p>
+
+<div id="c50873">
+<p>well i do not know what it is</p>
+</div>
+<p class="posted">Posted by: ebiarede peter  at August 12, 2010  2:00 AM</p>
+
+
+
+
+
+
+<h3>Post a comment</h3>
+
+
+
+<div id="thanks">
+<p>Thanks for signing in, 
+<script type="text/javascript" src="http://perr.in/cgi-bin/mt/mt-comments.cgi?__mode=cmtr_name_js"></script><script>document.write(commenter_name);</script>.
+Now you can comment. (<a href="http://perr.in/cgi-bin/mt/mt-comments.cgi?__mode=handle_sign_in&amp;static=1&amp;logout=1&amp;entry_id=293">sign out</a>)</p>
+
+<p>(If you haven't left a comment here before, you may need to be approved by the site owner before your comment will appear. Until then, it won't appear on the entry. Thanks for waiting.)</p>
+
+<form method="post" action="http://perr.in/cgi-bin/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="293" />
+
+<p><label for="url">URL:</label><br />
+<input tabindex="1" type="text" name="url" id="url" />
+Remember me?
+<input type="radio" id="remember" name="bakecookie" /><label for="remember">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" />
+
+</p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="2" id="text" name="text" rows="10" cols="50" onkeypress="keystrokes(this.form)"></textarea></p>
+
+<div align="center">
+<input type="submit" tabindex="3" name="preview" value="&nbsp;Preview&nbsp;" />
+<input style="font-weight: bold;" tabindex="4" type="submit" onclick="keystrokes(this.form)" name="post" value="&nbsp;Post&nbsp;" />
+</div>
+</form>
+
+</div>
+
+<script language="javascript" type="text/javascript">
+<!--
+if (commenter_name) {
+    document.getElementById('thanks').style.display = 'block';
+} else {
+    document.write('<p>You are not signed in. You need to be registered to comment on this site. <a href="https://www.typekey.com/t/typekey/login?&amp;lang=en_US&amp;t=hzroYXxIyKLcKTtoX5TW&amp;v=1.1&amp;_return=http://perr.in/cgi-bin/mt/mt-comments.cgi%3f__mode=handle_sign_in%26key=TypeKey%26static=1%26entry_id=293"> Sign in</a></p>');
+    document.getElementById('thanks').style.display = 'none';
+}
+// -->
+</script>
+
+
+
+
+
+
+<script type="text/javascript" language="javascript">
+<!--
+if (document.comments_form.email != undefined)
+    document.comments_form.email.value = getCookie("mtcmtmail");
+if (document.comments_form.author != undefined)
+    document.comments_form.author.value = getCookie("mtcmtauth");
+if (document.comments_form.url != undefined)
+    document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth") || getCookie("mtcmthome")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+
+
+
+</div><!-- end boxcontent -->
+<b class="b4b"></b><b class="b3b"></b><b class="b2b"></b><b class="b1b"></b>
+</div><!-- end center -->
+</div><!-- end centerwrap -->
+
+<div id="right">
+<h3>Topics</h3>
+
+
+
+
+
+
+<ul class="menu">
+<li><a href="/">Home</a></li>
+
+ <li><a   href="/japan/" title="Japan">Japan</a></li>
+
+ <li><a   href="/music/" title="Music">Music</a></li>
+
+ <li><a   href="/stupid/" title="Stupid">Stupid</a></li>
+
+ <li><a  
+id="current" href="/tech/" title="Tech">Tech</a></li>
+
+<li><a href="/contact/">Contact</a></li>
+</ul>
+
+<h3>Private</h3>
+<ul class="menu">
+<li><a href="http://net.perr.in/">perr.in web</a></li>
+<li><a href="http://net.perr.in/">Photos &amp; Videos</a></li>
+</ul>
+
+<h3>Feeds</h3>
+<ul class="syndicate">
+<li><a href="/index.xml" title="Subscribe to the perrin3 feed">
+<img src="/images/xml-button.gif" alt="" /></a></li>
+<li>
+<a href="http://my.msn.com/addtomymsn.armx?id=rss&ut=http://perrin3.com/index.xml&ru=http://perrin3.com/" title="Subscribe to the perrin3 feed">
+<img src="/images/my-msn.gif" alt="Add to My MSN" /></a></li>
+<li>
+<a href="http://feeds.feedburner.com/perrin3" title="Subscribe to the perrin3.com feed">
+<img src="/images/feedburner.gif" alt="Feedburner feed" /></a></li>
+<li>
+<a href="http://www.bloglines.com/sub/http://perrin3.com/index.xml" title="Subscribe to the perrin3 feed">
+<img src="/images/bloglines.gif" alt="Subscribe with Bloglines" />
+</a></li>
+<li>
+<a href="http://add.my.yahoo.com/rss?url=http://perrin3.com/index.xml" title="Subscribe to the perrin3 feed">
+<img src="/images/addtomyyahoo.gif" alt="Add to My Yahoo!" /></a></li>
+<li>
+<a href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://perrin3.com/index.xml" title="Subscribe to the perrin3 feed">
+<img src="/images/newsgator.gif" alt="Subscribe in NewsGator Online" /></a></li>
+<li>
+<a href="http://www.rojo.com/add-subscription?resource=http://perrin3.com/index.xml"> 
+<img src="/images/RojoWideBlue.gif" alt="Subscribe in Rojo" /></a></li>
+<li><a href="http://www.newsburst.com/Source/?add=http://perrin3.com/index.xml">
+<img src="/images/newsburst3.gif" alt="Add to Newsburst from CNET News.com" /></a>
+</li>
+</ul>
+
+
+</div><!-- end right -->
+
+<div id="left">
+&nbsp;
+</div><!-- end left -->
+
+</div><!-- end contentfloatholder -->
+
+<div id="footer" class="ctr">
+<span>
+<sup>&copy;</sup>1996-2013 by <a href="/contact/">Bill Perrin</a>. All rights reserved.
+</span>
+
+<div id="powered">
+Powered by <a href="http://www.movabletype.org">Movable Type</a>   
+</div>
+</div><!-- end footer -->
+</div><!-- end wrapper -->
+</body>
+</html>

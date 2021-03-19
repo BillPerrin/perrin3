@@ -1,0 +1,511 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+/************* IE Mac CSS Only  works for Win too **************/
+* html div#centerwrap {
+	margin: 0 -100% 0 0;
+}
+
+* html div#left {
+	margin: 0;
+}
+
+.ctr, .centertext {
+	text-align: center;
+}
+
+body {
+	background: #667;
+	color: #000;
+	font: 100% Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align: center;
+	min-width: 700px;
+}
+
+div h3, div p, div blockquote {
+	margin: 1em 0;
+	padding: 0 20px;
+}
+
+#center ul {
+	margin: 1em 0;
+	padding: 0 2em 0 4em;
+}
+
+hr {
+	width: 75%;
+	text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Times New Roman", Times, serif;
+}
+
+#center {
+	margin: 0 175px 0 175px;
+}
+
+#center h2 a:link, #center h2 a:visited {
+	color: #fff;	
+}
+
+#centerwrap {
+	float: left;
+	width: 100%;
+	margin: 0 -95% 0 0;
+}
+
+#contentfloatholder {
+	float: left;
+	width: 100%;
+	background: url(http://perrin3.com/images/p3-right-border3.gif) repeat-y 100% 0; /* right faux column tab */
+}
+
+#contentfloatholder:after {
+	clear: both;
+	display: block;
+	content: "."; /* this is for NN6 to clear floats */
+	height: 0px;
+	visibility: hidden;
+}
+
+#header {
+	background: #667 url(http://perrin3.com/images/perrin3-top.gif) no-repeat;
+	color: #fff;
+	height: 70px;
+}
+
+#header, #subnav, #footer {
+	clear: both;
+	width: 100%;
+	color: #000;
+}
+
+#left {
+	float: left;
+	width: 170px;
+	margin: 0 0 0 -5%;
+	color: #ccc;
+}
+
+#left h3 {
+	margin: 15px 0 -10px -10px;
+}
+
+#left h3, #right h3 {
+	color: #99c;
+	font-size: 1.25em;
+}
+
+#left ul {
+	margin: 1em 0;
+	padding: 0 25px;
+}
+
+#right {
+	float: right;
+	width: 170px;
+	margin: 0;
+}
+
+#right div p, #right div h3 {
+	padding: 0 5px;
+}
+
+#right h3 {
+	margin: 15px 0 10px -10px;
+	text-align: right;
+}
+
+#right ul {
+	list-style-type: none;
+}
+
+#right ul li {
+	margin-bottom: 5px;
+}
+
+#subnav, #footer {
+	background: url(http://perrin3.com/images/p3-right-border3.gif) repeat-y 100% 0;
+	color: #eee;
+	font-size: 0.76em;
+}
+
+/* wrapper holds left faux column tab */
+/* nn6/7 will put content out of scrollable reach if auto is used unless the min-width is on body */
+#wrapper {
+	width: 90%;
+	margin: 0 auto;
+	background: #445 url(http://perrin3.com/images/p3-right-border3.gif) repeat-y 100% 0;
+	font-size: 0.86em;
+	text-align: left;
+}
+
+.menu a {
+	margin: 0 0 0 18px;
+	width: 150px;
+	border: 1px solid;
+	border-top-color: #424242;
+	border-right-color: #989898;
+	border-bottom-color: #afafaf;
+	border-left-color: #595959;
+	display: block;
+	background: #808080;
+	color: #fff;
+	font-family: Arial, sans-serif;
+	text-align: center;
+	text-decoration: none;
+	line-height: 2em;
+	height: 2em;
+	position: relative;
+	z-index: 98;
+}
+
+.menu a:hover, a#current {
+	margin: 0 0 0 -6px;
+	width: 174px;
+	border-top-color: #999;
+	border-right-color: #aaa;
+	border-bottom-color: #fff;
+	border-left-color: #ccc;
+	color: #445;
+	background: #ccc;
+	font-weight: bold;
+}
+
+.menu a:active {
+	margin: 0 0 0 -6px;
+	width: 174px;
+	border-top-color: #999;
+	border-right-color: #aaa;
+	border-bottom-color: #fff;
+	border-left-color: #ccc;
+	background: #fc3;
+	color: #fff;
+}
+/* Inset 3D Curved
+----------------------------------------------- */
+
+.inset {
+	background: transparent; /*width:40%;*/
+}
+
+.inset .b1 {
+	margin: 0 5px;
+	background: #999;
+}
+
+.inset .b1, .inset .b2, .inset .b3, .inset .b1b, .inset .b2b, .inset .b3b {
+	height: 1px;
+}
+
+.inset .b1, .inset .b2, .inset .b3, .inset .b4, .inset .b1b, .inset .b2b, .inset .b3b, .inset .b4b {
+	display: block;
+	font-size: 1px;
+	overflow: hidden;
+}
+
+.inset .b1b {
+	margin: 0 5px;
+	background: #fff;
+}
+
+.inset .b2 {
+	border-left: 1px solid #999;
+	border-right: 1px solid #aaa;
+	background: #ccc;
+}
+
+.inset .b2, .inset .b2b {
+	margin: 0 3px;
+	border-width: 0 2px;
+}
+
+.inset .b2b {
+	border-left: 1px solid #eee;
+	border-right: 1px solid #fff;
+	background: #ccc;
+}
+
+.inset .b3 {
+	border-left: 1px solid #999;
+	border-right: 1px solid #ddd;
+	background: #ccc;
+}
+
+.inset .b3, .inset .b3b {
+	margin: 0 2px;
+}
+
+.inset .b3b {
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #fff;
+	background: #ccc;
+}
+
+.inset .b4 {
+	border-left: 1px solid #999;
+	border-right: 1px solid #eee;
+	background: #ccc;
+}
+
+.inset .b4, .inset .b4b {
+	margin: 0 1px;
+	height: 2px;
+}
+
+.inset .b4b {
+	border-left: 1px solid #aaa;
+	border-right: 1px solid #fff;
+	background: #ccc;
+}
+
+.inset .boxcontent {
+	border-left: 1px solid #999;
+	border-right: 1px solid #fff;
+	display: block;
+	background: #ccc;
+}
+
+.inset h1 {
+	color: #fff;
+	font-size: 2em;
+}
+
+.inset h1, .inset h2, #right .inset h3, .inset h3 {
+	margin: 0 10px .5em 10px;
+}
+
+.inset p {
+	margin: 0 10px;
+}
+
+.inset h4, .inset h5, .inset h6 {
+	margin: .5em 10px .4em 10px;
+}
+
+.inset h2 {
+	color: #fff;
+	font-size: 1.55em;
+}
+
+.inset h3 {
+	color: #fff;
+	font-size: 1.35em;
+}
+
+.inset p {
+	padding-bottom: 0.5em;
+}
+
+#right .inset h3 {
+	color: #fff;
+}
+  
+/* Content Links
+----------------------------------------------- */
+
+.boxcontent a:link, .boxcontent a:visited {
+	border-bottom: 1px dotted #69f;
+	color: #03c;
+	text-decoration: none;
+}
+
+.boxcontent a:visited {
+	border-color: #c6c;
+	color: #906;
+}
+
+.boxcontent a:hover {
+	border-color: #c00; 
+	color: #f00;
+}
+
+.boxcontent h2 a:hover, #left h2 a:hover, 
+#subnav h2 a:hover, 
+#footer h2 a:hover {
+	border-bottom: none;
+	color: #339;
+	text-decoration: none;
+}
+
+.boxcontent h1 a:link, .boxcontent h1 a:visited,
+.boxcontent h2 a:link, .boxcontent h2 a:visited, 
+.boxcontent h3 a:link, .boxcontent h3 a:visited {
+	border-bottom: none;
+	text-align: left;
+} 
+
+
+/* Left, Subnav, Footer Links
+----------------------------------------------- */
+#left a:link, #left a:visited, 
+#subnav a:link, #subnav a:visited, 
+#footer a:link, #footer a:visited {
+	border-bottom: 1px dotted #03c;
+	color: #69f;
+	text-decoration: none;
+}
+
+#left a:visited, 
+#subnav a:visited, 
+#footer a:visited {
+	border-color: #906;
+	color: #c6c;
+}
+
+#left a:hover, 
+#subnav a:hover, 
+#footer a:hover {
+	border-color: #f00; 
+	color: #f33; 
+}
+
+/* Left list style
+----------------------------------------------- */
+
+#left ul li {
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+	border-bottom-color: #666;
+	margin-bottom: .75em;
+}
+
+
+
+/* subnav footer list
+----------------------------------------------- */
+#subnav span {
+	margin-left: 20px;
+	line-height: 30px;
+}
+
+#footer span {
+	line-height: 30px;
+}
+
+/* tables
+----------------------------------------------- */
+table {
+	border-bottom: solid #666666;
+	border-collapse: collapse;
+	border-left: solid #CCCCCC;
+	border-right: solid #666666;
+	border-top: solid #CCCCCC;
+	margin: auto;
+}
+td {
+	border: solid #eeeeee; /*border-bottom:solid #9cf;
+border-left:solid #9cf;
+border-right:solid #9cf;
+border-top:solid #9cf;*/
+	font: smaller "arial narrow",arial,helvetica,sans-serif;
+	text-align: center;
+}
+tr.header {
+	background: #808080;
+	color: #FFFFFF;
+}
+
+
+/* posts
+----------------------------------------------- */
+
+p.posted, p.entry-footer {
+	border-top: 1px solid #999999;
+}
+
+.entry-more-link, p.posted, p.entry-footer {
+	font-size: 0.76em;
+	color: #999;
+	font-family: Verdana, Arial, sans-serif;
+	text-align: right;
+}
+
+.inset h2 #trackbacks {
+	font-size: 1.35em;
+}
+
+.techstuff {
+	font-size: 0.76em;
+}
+
+
+/* Feed Links
+----------------------------------------------- */
+.syndicate {
+	text-align: right;
+}
+
+ul.syndicate {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.syndicate a:link, .syndicate a:visited, .syndicate a:hover {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	border-bottom: hidden;
+}
+
+/* Forms
+----------------------------------------------- */
+
+input, textarea, select { 
+ background-color: #ccf; 
+ border: 3px solid #666;
+ padding: 3px;
+}
+
+#poweredby span a:link, #poweredby span a:visited {
+	display: none;
+	visibility: hidden;
+}
+
+/* iframe
+----------------------------------------------- */
+
+/*.clear {
+	margin: 0 auto;
+	width: 300px;
+}
+
+.inset iframe {
+	display: block;
+	float: left;
+	margin: 5px 10px;
+}*/
+
+/* http://tsubaki.nl/products/chain/attachment-chain.html */
+.amazon {
+	width: 250px;
+	margin: 0 auto;
+	display: block;
+}
+
+.amazon iframe {
+	border: solid #9CF;
+	border-width: 1px;
+	float: left;
+	/*font-size: 13px;*/
+	height: 240px;
+	padding: 5px;
+	/*text-align: center;*/
+	width: 120px;
+}
+
+/* Stupid Stuff
+----------------------------------------------- */
+
+ul.japanlist {
+	list-style-type: none;
+}
+
+ul.japanlist li {
+	margin: 1em 0 0 -1em;
+}

@@ -1,0 +1,86 @@
+#=================
+# 2008/11/7 TC Add
+# stop SQL injection attack
+# http://www.webmasterworld.com/apache/3731562.htm
+#=================
+RewriteCond %{QUERY_STRING} [^a-z](declare|char|set|cast|convert|delete|drop|exec|insert|meta|script|select|truncate|update)[^a-z] [NC] 
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule (.*) - [F]
+
+RewriteEngine On 
+RewriteCond %{HTTP_HOST} !^perrin3\.com 
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^.*$ http://perrin3.com%{REQUEST_URI} [R=301,L]
+RewriteCond %{HTTP_REFERER} . 
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?perrin3\.com [NC]
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?perr\.in [NC]
+RewriteCond %{HTTP_REFERER} !^http://(net\.)?perr\.in [NC]
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?osakan\.com [NC]
+RewriteCond %{HTTP_REFERER} !^http://(forum\.|www\.)?ron4president\.com [NC]
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule \.(gif|jpe?g|png|mov|wmv|wav|mpe?g|asf|bmp|rpm|mid)$ - [F,NC]
+
+# YADIS
+AddType application/xrds+xml .xrdf
+RewriteCond %{HTTP_ACCEPT} application/xrds\+xml
+RewriteCond %{HTTP_ACCEPT} !application/xrds\+xml\s*;\s*q\s*=\s*0(\.0{1,3})?\s*(,|$)
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^$ http://perrin3.com/public/yadis.xrdf [R,L]
+
+# Redirects for 2006 site
+Redirect 301 /familyphotos http://perrin3.com/
+RedirectPermanent /gallery http://perrin3.com/
+RedirectPermanent /links/index.html http://perrin3.com/
+RedirectPermanent /links/anonymous.html http://perrin3.com/tech/no-proxy-server/
+RedirectPermanent /links/index.html http://perrin3.com/
+RedirectPermanent /links/japan_news.html http://perrin3.com/japan/japan-news-info/
+RedirectPermanent /links/japanese_pc.html http://perrin3.com/japan/using-ja-on-en-pc/
+RedirectPermanent /links/japanese_search_engines.html http://perrin3.com/japan/japanese-search-engines/
+RedirectPermanent /links/javascript_world_clock.htm http://perrin3.com/
+RedirectPermanent /links/translate_japanese.html http://perrin3.com/japan/translating-japanese-online/
+RedirectPermanent /links// http://perrin3.com/japan/
+RedirectPermanent /music/zot.html http://perrin3.com/zot/
+RedirectPermanent /stupid/abuse_page.htm http://perrin3.com/stupid/textual-abuse-page/
+RedirectPermanent /stupid/algore.html http://perrin3.com/stupid/al-gore-songs/
+RedirectPermanent /stupid/email_java.htm http://perrin3.com/stupid/email-java/
+RedirectPermanent /stupid/fake_virus.htm http://perrin3.com/stupid/fake-virus/
+RedirectPermanent /stupid/in_japan_too_long.htm http://perrin3.com/stupid/been-in-japan-too-long/
+RedirectPermanent /stupid/monica.html http://perrin3.com/stupid/bill-and-monica-song/
+RedirectPermanent /stupid/useful_java.htm http://perrin3.com/stupid/useful-java/
+RedirectPermanent /video/index.html http://perrin3.com/
+RedirectPermanent /video/videohunter1.htm http://perrin3.com/
+RedirectPermanent /video/videohunter2.htm http://perrin3.com/
+RedirectPermanent /video/videouru1.htm http://perrin3.com/
+RedirectPermanent /thepage.htm http://perrin3.com/
+RedirectPermanent /whoisbil.htm http://perrin3.com/
+
+# new Redirects
+RedirectPermanent /japan/japanese_search_engines.html http://perrin3.com/japan/japanese-search-engines/
+RedirectPermanent /japan/japan_news.html http://perrin3.com/japan/japan-news-info/
+RedirectPermanent /Links http://perrin3.com/japan/
+RedirectPermanent /<b>zot</b> http://perrin3.com/zot/
+RedirectPermanent /%3Cb%3Ezot%3C/b%3E/  http://perrin3.com/zot/
+
+# redirect for FeedBurner
+Redirect temp /index.xml http://feeds2.feedburner.com/Perrin3
+Redirect temp /atom.xml http://feeds2.feedburner.com/Perrin3
+Redirect temp /index.rdf http://feeds2.feedburner.com/Perrin3
+Redirect temp /zot/index.xml http://feeds2.feedburner.com/Zot
+Redirect temp /zot/atom.xml http://feeds2.feedburner.com/Zot
+Redirect temp /zot/index.rdf http://feeds2.feedburner.com/Zot
+
+# Custom Error pages
+ErrorDocument 404 /404.html
+
+#=================
+#block access
+#=================
+<Files ~ "^.(htaccess|htpasswd)$">
+deny from all
+</Files>
+order deny,allow
+deny from 46.183.162.*
