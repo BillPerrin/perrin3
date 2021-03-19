@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Zot 2</title>
-    <link rel="alternate" type="text/html" href="/zot_2/" />
-    <link rel="self" type="application/atom+xml" href="/zot_2/atom.xml" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/" />
+    <link rel="self" type="application/atom+xml" href="http://perrin3.com/zot_2/atom.xml" />
     <id>tag:perrin3.com,2009-04-25:/zot_2//15</id>
     <updated>2009-04-25T04:42:33Z</updated>
     <subtitle>Back in the good old days you could drop into the local record shop and pick up an album from a band with a weird name...and it would be great. The self entitled Zot album by the band named Zot was one of those great finds of the 80s.
@@ -12,7 +12,7 @@
 
 <entry>
     <title>Chris, Randy and Pat - Easter 1985</title>
-    <link rel="alternate" type="text/html" href="/zot_2/2008/07/chris-randy-and-pat-easter-1985.html" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/2008/07/chris-randy-and-pat-easter-1985.html" />
     <id>tag:perrin3.com,2008:/zot_2//15.473</id>
 
     <published>2008-07-13T02:57:51Z</published>
@@ -31,7 +31,7 @@
     <category term="randywayne" label="Randy Wayne" scheme="http://www.sixapart.com/ns/types#tag" />
     
     <content type="html" xml:lang="en-us" xml:base="http://perrin3.com/zot_2/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/zot/images/zot-chris-randy-pat-taken-by-andy-thomas-easter-1985.jpg"><img alt="zot-chris-randy-pat-taken-by-andy-thomas-easter-1985.jpg" src="/zot/images/zot-chris-randy-pat-taken-by-andy-thomas-easter-1985-thumb-450x370.jpg" width="450" height="370" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a></span></p>
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="http://perrin3.com/zot/images/zot-chris-randy-pat-taken-by-andy-thomas-easter-1985.jpg"><img alt="zot-chris-randy-pat-taken-by-andy-thomas-easter-1985.jpg" src="http://perrin3.com/zot/images/zot-chris-randy-pat-taken-by-andy-thomas-easter-1985-thumb-450x370.jpg" width="450" height="370" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a></span></p>
 
 <p>This photo of Chris Stewart, Randy Wayne and Patrick Knowles was taken by Andy Thomas around Easter 1985.</p>]]>
         
@@ -40,7 +40,7 @@
 
 <entry>
     <title>On stage at Costa Mesa in 1985</title>
-    <link rel="alternate" type="text/html" href="/zot_2/2008/07/on-stage-at-costa-mesa-in-1985.html" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/2008/07/on-stage-at-costa-mesa-in-1985.html" />
     <id>tag:perrin3.com,2008:/zot_2//15.472</id>
 
     <published>2008-07-13T02:41:06Z</published>
@@ -60,7 +60,7 @@
     <category term="tomcalderaro" label="Tom Calderaro" scheme="http://www.sixapart.com/ns/types#tag" />
     
     <content type="html" xml:lang="en-us" xml:base="http://perrin3.com/zot_2/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/zot/images/zot-bryant-simpson-andy-thomas-tom-calderaro-costa-mesa-1985.jpg"><img alt="" src="/zot/assets_c/2008/07/zot-bryant-simpson-andy-thomas-tom-calderaro-costa-mesa-1985-thumb-450x292.jpg" width="450" height="292" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a></span></p>
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="http://perrin3.com/zot/images/zot-bryant-simpson-andy-thomas-tom-calderaro-costa-mesa-1985.jpg"><img alt="" src="http://perrin3.com/zot/assets_c/2008/07/zot-bryant-simpson-andy-thomas-tom-calderaro-costa-mesa-1985-thumb-450x292.jpg" width="450" height="292" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a></span></p>
 
 <p>Andy Thomas sent me this 1985 photo of Bryant Simpson on stage with Andy Thomas and Tom Calderaro in the background. This is Zot at Costa Mesa.</p>]]>
         
@@ -69,7 +69,7 @@
 
 <entry>
     <title>Air Diamond</title>
-    <link rel="alternate" type="text/html" href="/zot_2/2008/05/air-diamond.html" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/2008/05/air-diamond.html" />
     <id>tag:perrin3.com,2008:/zot_2//15.471</id>
 
     <published>2008-05-23T06:16:35Z</published>
@@ -93,7 +93,7 @@ Dave&apos;s doing a lot with 3D graphics and flight instruction.</summary>
 
 <p>Seven years later Diamond found himself a founding member of the 1980s rock group Berlin. During the band's first tour he experienced flight in a small airplane for the first time.</p>
 
-<p><img src="/images/zot/davidinberlin.jpg" alt="Dave Diamond" /></p>
+<p><img src="http://perrin3.com/images/zot/davidinberlin.jpg" alt="Dave Diamond" /></p>
 
 <p>"We were staying in a hotel in East Lansing, Michigan," recalls Diamond. "The hotel's bartender was also a flight instructor, which I found to be a curious combination of careers. He invited me to fly with him." Then 17, finally old enough to earn his wings, Diamond was without the time to complete the training. "Being a rock star can really eat into your day," jokes Diamond.</i></p>]]>
         
@@ -102,7 +102,7 @@ Dave&apos;s doing a lot with 3D graphics and flight instruction.</summary>
 
 <entry>
     <title>Chris Stewart - Drums</title>
-    <link rel="alternate" type="text/html" href="/zot_2/2008/02/chris-stewart-drums.html" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/2008/02/chris-stewart-drums.html" />
     <id>tag:perrin3.com,2008:/zot_2//15.470</id>
 
     <published>2008-02-08T00:46:14Z</published>
@@ -120,16 +120,16 @@ Dave&apos;s doing a lot with 3D graphics and flight instruction.</summary>
     <content type="html" xml:lang="en-us" xml:base="http://perrin3.com/zot_2/">
         <![CDATA[<p>Hi Everyone,</p>
 
-<div style="float: left; margin: 10px;"><a href="/zot/photos/zot-chris-stewart-001.jpg"><img src="/zot/photos/zot-chris-stewart-thumb-001.jpg" alt="Chris Stewart" /></a></div>Hope everyone is doing great!  I've been busy with my drumming, music and recently artwork.  In the 90's I was in a band called <strong>Modern Faith</strong> (an alternative band) and played in the O.C. and every spring break in San Felipe, Mexico and every year at grad nights at Disneyland with the band <strong><a href="http://www.nodoubt.com/">No Doubt</a></strong> (1995, 1996).  In early 2000 I played with <a href="http://www.crawfordmusic.net/">John Crawford</a> of <strong><a href="http://en.wikipedia.org/wiki/Berlin_(band)">Berlin</a></strong> and did a CD.  For the following three years played with a punk rock band called <strong><a href="http://www.centrocore.com/">El Centro</a></strong>.  We toured the <strong><a href="http://www.warpedtour.com/">Warp Tour</a></strong> with such bands as <strong><a href="http://www.blink182.com/">Blink 182</a></strong>, <strong><a href="http://sublimespot.com/">Sublime</a>, <a href="http://www.enjoyincubus.com/">Incabus</a>, <a href="http://badreligion.com/">Bad Religion</a></strong> and <strong><a href="http://www.janesaddiction.com/">Jane's Addiction</a></strong> and <strong><a href="http://www.greenday.com/">Green Day</a></strong>.  (Blink also put my name of their <em>Enima</em> CD)  
+<div style="float: left; margin: 10px;"><a href="http://perrin3.com/zot/photos/zot-chris-stewart-001.jpg"><img src="http://perrin3.com/zot/photos/zot-chris-stewart-thumb-001.jpg" alt="Chris Stewart" /></a></div>Hope everyone is doing great!  I've been busy with my drumming, music and recently artwork.  In the 90's I was in a band called <strong>Modern Faith</strong> (an alternative band) and played in the O.C. and every spring break in San Felipe, Mexico and every year at grad nights at Disneyland with the band <strong><a href="http://www.nodoubt.com/">No Doubt</a></strong> (1995, 1996).  In early 2000 I played with <a href="http://www.crawfordmusic.net/">John Crawford</a> of <strong><a href="http://en.wikipedia.org/wiki/Berlin_(band)">Berlin</a></strong> and did a CD.  For the following three years played with a punk rock band called <strong><a href="http://www.centrocore.com/">El Centro</a></strong>.  We toured the <strong><a href="http://www.warpedtour.com/">Warp Tour</a></strong> with such bands as <strong><a href="http://www.blink182.com/">Blink 182</a></strong>, <strong><a href="http://sublimespot.com/">Sublime</a>, <a href="http://www.enjoyincubus.com/">Incabus</a>, <a href="http://badreligion.com/">Bad Religion</a></strong> and <strong><a href="http://www.janesaddiction.com/">Jane's Addiction</a></strong> and <strong><a href="http://www.greenday.com/">Green Day</a></strong>.  (Blink also put my name of their <em>Enima</em> CD)  
 
 <div style="clear:both;"></div>]]>
-        <![CDATA[<div style="float: right; margin: 10px;"><a href="/zot/photos/zot-chris-stewart-003.jpg"><img src="/zot/photos/zot-chris-stewart-thumb-003.jpg" alt="Chris Stewart" /></a></div>In 2003 my manager was killed and my singer was seriously injured in the terrorist bombing in Bali that killed over 230 people.  I was supposed to go but decided not to.   To this day, I don't know why I didn't go but the Holy Spirit was watching over me.  My singer was all over tv and the newspapers describing the carnage that ensued.  It was a very difficult time.  The band broke up because of this.  
+        <![CDATA[<div style="float: right; margin: 10px;"><a href="http://perrin3.com/zot/photos/zot-chris-stewart-003.jpg"><img src="http://perrin3.com/zot/photos/zot-chris-stewart-thumb-003.jpg" alt="Chris Stewart" /></a></div>In 2003 my manager was killed and my singer was seriously injured in the terrorist bombing in Bali that killed over 230 people.  I was supposed to go but decided not to.   To this day, I don't know why I didn't go but the Holy Spirit was watching over me.  My singer was all over tv and the newspapers describing the carnage that ensued.  It was a very difficult time.  The band broke up because of this.  
 
 <p>Today I am teaching drums and doing studio work with different artists.  Currently, I am in pre-production for a drumming instruction CD--called <strong>Touch</strong>--so watch out for it!  There will be music too!</p>
 
-<p>Also, I thought all of you should know, in the near future I am re-releasing the ZOT album to a CD with the old classic ZOT look but with a few new things.  It will be dedicated to <a href="/zot/where-are-they-now/patrick-knowles-rip.html">Patrick Knowles</a>, my friend forever and I still love and miss him very much.  He was and still is my favorite guitarist.  </p>
+<p>Also, I thought all of you should know, in the near future I am re-releasing the ZOT album to a CD with the old classic ZOT look but with a few new things.  It will be dedicated to <a href="http://perrin3.com/zot/where-are-they-now/patrick-knowles-rip.html">Patrick Knowles</a>, my friend forever and I still love and miss him very much.  He was and still is my favorite guitarist.  </p>
 
-<div style="float: left; margin: 10px;"><a href="/zot/photos/zot-chris-stewart-002.jpg"><img src="/zot/photos/zot-chris-stewart-thumb-002.jpg" alt="Chris Stewart" /></a></div>Hey Bryant and Randy if you are reading this--get in touch with me!  
+<div style="float: left; margin: 10px;"><a href="http://perrin3.com/zot/photos/zot-chris-stewart-002.jpg"><img src="http://perrin3.com/zot/photos/zot-chris-stewart-thumb-002.jpg" alt="Chris Stewart" /></a></div>Hey Bryant and Randy if you are reading this--get in touch with me!  
 
 <p>PS  I will send ZOT pictures and some of my artwork soon.</p>
 
@@ -140,14 +140,14 @@ Dave&apos;s doing a lot with 3D graphics and flight instruction.</summary>
 <hr style="clear:both;" />
 <h2>Chris's artwork</h2>
 <em>Click the image to see a larger version.</em>
-<div style="float: left; margin: 10px;"><a href="/zot/photos/zot-chris-stewart-004.jpg"><img src="/zot/photos/zot-chris-stewart-thumb-004.jpg" alt="Chris Stewart" /></a><a href="/zot/photos/zot-chris-stewart-005.jpg"><img src="/zot/photos/zot-chris-stewart-thumb-005.jpg" alt="Chris Stewart" /></a><a href="/zot/photos/zot-chris-stewart-006.jpg"><img src="/zot/photos/zot-chris-stewart-thumb-006.jpg" alt="Chris Stewart" /></a></div>
+<div style="float: left; margin: 10px;"><a href="http://perrin3.com/zot/photos/zot-chris-stewart-004.jpg"><img src="http://perrin3.com/zot/photos/zot-chris-stewart-thumb-004.jpg" alt="Chris Stewart" /></a><a href="http://perrin3.com/zot/photos/zot-chris-stewart-005.jpg"><img src="http://perrin3.com/zot/photos/zot-chris-stewart-thumb-005.jpg" alt="Chris Stewart" /></a><a href="http://perrin3.com/zot/photos/zot-chris-stewart-006.jpg"><img src="http://perrin3.com/zot/photos/zot-chris-stewart-thumb-006.jpg" alt="Chris Stewart" /></a></div>
 <div style="clear:both;"></div>]]>
     </content>
 </entry>
 
 <entry>
     <title>The Uranium Video</title>
-    <link rel="alternate" type="text/html" href="/zot_2/2005/07/uranium-video.html" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/2005/07/uranium-video.html" />
     <id>tag:perrin3.com,2005:/zot_2//15.469</id>
 
     <published>2005-07-09T15:22:50Z</published>
@@ -165,27 +165,27 @@ Dave&apos;s doing a lot with 3D graphics and flight instruction.</summary>
     <content type="html" xml:lang="en-us" xml:base="http://perrin3.com/zot_2/">
         <![CDATA[<p>The 20+ year wait is over. I have for you here Zot's video for the song <strong>Uranium</strong>. </p>
 
-<p>Recorded on November 12, 1984, the Uranium video made it into heavy rotation <a href="/zot/photos/mtv-interview-premiere-of-uranium-video.html">on MTV</a> during the summer of 1985 for a short time. </p>
+<p>Recorded on November 12, 1984, the Uranium video made it into heavy rotation <a href="http://perrin3.com/zot/photos/mtv-interview-premiere-of-uranium-video.html">on MTV</a> during the summer of 1985 for a short time. </p>
 
-<p><img src="/images/zot/uranium-thumb-1.jpg" alt="Uranium video" /></p>]]>
-        <![CDATA[<p>When the video first came out I remember thinking that I was a bit ahead of the curve because I already had <a href="/zot/audio-files/the-album-zot.html">the Zot album</a>. However, for the last two decades I'd been kicking myself for not taping a copy of this video. At the time I thought this song and this band would have a lot more staying power.</p>
+<p><img src="http://perrin3.com/images/zot/uranium-thumb-1.jpg" alt="Uranium video" /></p>]]>
+        <![CDATA[<p>When the video first came out I remember thinking that I was a bit ahead of the curve because I already had <a href="http://perrin3.com/zot/audio-files/the-album-zot.html">the Zot album</a>. However, for the last two decades I'd been kicking myself for not taping a copy of this video. At the time I thought this song and this band would have a lot more staying power.</p>
 
 <p>Thanks for this video go out to the family of the late <strong>Patrick Knowles</strong> who provided me with a copy. The video tape is 20 years old, but it has held up pretty well. The sound has a bit of static I couldn't remove, but it adds a bit of character. I've spent the last few months tweaking this video and encoding it over and over again to get it into shape.</p>
 
-<p><img src="/images/zot/uranium-thumb-2.jpg" alt="Uranium video" /></p>
+<p><img src="http://perrin3.com/images/zot/uranium-thumb-2.jpg" alt="Uranium video" /></p>
 
 <p><em>Director:</em> C.D. Taylor<br />
 <em>Producer:</em> Francie Moore<br />
 <em>Executive Producer:</em> Randy Phillips<br />
 Design Arts Productions</p>
 
-<ul><li><a href="/images/zot/zot-uranium.wmv">Zot - "Uranium" video</a>  Windows Media .wmv 6.3MB</li></ul>]]>
+<ul><li><a href="http://perrin3.com/images/zot/zot-uranium.wmv">Zot - "Uranium" video</a>  Windows Media .wmv 6.3MB</li></ul>]]>
     </content>
 </entry>
 
 <entry>
     <title>MTV interview - premiere of &quot;Uranium&quot; video</title>
-    <link rel="alternate" type="text/html" href="/zot_2/2005/06/mtv-interview-premiere-of-uranium-video.html" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/2005/06/mtv-interview-premiere-of-uranium-video.html" />
     <id>tag:perrin3.com,2005:/zot_2//15.468</id>
 
     <published>2005-06-12T04:47:06Z</published>
@@ -201,7 +201,7 @@ Design Arts Productions</p>
     
     
     <content type="html" xml:lang="en-us" xml:base="http://perrin3.com/zot_2/">
-        <![CDATA[<div style="float: left; margin: 10px;"><img src="/images/zot/mtv-interview-screenshot.jpg" alt="MTV interview"/></div>
+        <![CDATA[<div style="float: left; margin: 10px;"><img src="http://perrin3.com/images/zot/mtv-interview-screenshot.jpg" alt="MTV interview"/></div>
 <p>MTV's Mark Goodman interviewed the band for the first ever showing of their
 <b>Uranium</b> video. This is a dated video taken from an old VHS tape and the 
 quality is not the best. I'd like to thank Zot fan <a href="http://www.threechordcircus.com">Jim Hewitt</a> for passing 
@@ -214,9 +214,9 @@ doesn't speak).</p>
 more that was lost). The Uranium video is not included in this clip. I have a 
 much better copy of the video that I'm in the process of digitizing. </p>
 <ul>
-	<li><a href="/images/zot/zot-mtv-interview.mov">Zot MTV 
+	<li><a href="http://perrin3.com/images/zot/zot-mtv-interview.mov">Zot MTV 
 	interview</a> - QuickTime .mov 6.3MB</li>
-	<li><a href="/images/zot/zot-mtv-interview.wmv">Zot MTV 
+	<li><a href="http://perrin3.com/images/zot/zot-mtv-interview.wmv">Zot MTV 
 	interview</a> - Windows Media .wmv 8.3MB</li>
 </ul>]]>
         
@@ -225,7 +225,7 @@ much better copy of the video that I'm in the process of digitizing. </p>
 
 <entry>
     <title>Bryant Simpson - Bassist</title>
-    <link rel="alternate" type="text/html" href="/zot_2/2005/04/bryant-simpson-bassist.html" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/2005/04/bryant-simpson-bassist.html" />
     <id>tag:perrin3.com,2005:/zot_2//15.467</id>
 
     <published>2005-04-09T14:53:27Z</published>
@@ -250,12 +250,12 @@ much better copy of the video that I'm in the process of digitizing. </p>
 
 <p>Versatile is the word that best discribes bassist, Bryant Simpson.</p>
 
-<div style="float: left; margin: 10px;"><img src="/images/zot/bryant-beach-1.jpg" alt="Bryant Simpson" /></div>
+<div style="float: left; margin: 10px;"><img src="http://perrin3.com/images/zot/bryant-beach-1.jpg" alt="Bryant Simpson" /></div>
 <p>Born in Los Angeles, Bryant's musical career began in Fullerton, California, the birthplace of the Fender bass. He was always enamored with the sound of the bass, but it wasn't until high school that he got the opportunity to explore his musical desires, when his father bought Bryant a bass to keep him out of trouble. From that moment, he was hooked! He then moved on to Fullerton College and for the next 2 years played electric and acoustic bass in their award winning jazz ensemble under the direction of Terry Blackley and Jim Linnahon. After graduating, Bryant began studying privately with MIT staff bassist and jazz veteran, Luther Hughes and bass virtuoso, John Pattitucci, while maintaining steady work in the Orange County area Top 40 scene and as a member of the jazz quartet "Blueprint", featuring Ron Kobayashi. Although his roots were in funk, R&amp;B and jazz, Bryant also had a love for rock music and in 1982 he joined the local Orange County rock group ZOT. Adding his funky groove with their modern rock edge proved to be a winning combination and the group was soon signed to Elektra/Asylum records. They enjoyed brief success until the group disbanded in 1985.</p>]]>
         <![CDATA[<p>This began a virtual avalanche of performing and recording with artists from a vast variety of musical genres including Maria Conchita Alonso, Lindsey Buckingham, Terry Bozio, Duran Duran's Andy Taylor, Sex Pistol Steve Jones, producers, Roy Thomas Baker (Queen, The Cars), Keith Olson (Fleetwood Mac, Ozzy Osborne), Pat Moran, (Robert Plant) and many others.
 </p>
 
-<div style="float: right; margin: 10px;"><img src="/images/zot/bryant-beach-2.jpg" alt="Bryant Simpson" /></div>
+<div style="float: right; margin: 10px;"><img src="http://perrin3.com/images/zot/bryant-beach-2.jpg" alt="Bryant Simpson" /></div>
 <p>1987 marked Bryant's return to the jazz scene as a member of B-Sharp, a trio which featured the late Jeff Buckley on guitar who would later enjoy a successful solo career. The following year Bryant began a two year stint with jazz saxophonist/Blue Note recording artist Karl Densen and he continued performing and/or recording with artists in the jazz and R&amp;B world include Big Jay McNealy, Jimmy Witherspoon, Miki Howard, Rashaan Patterson, Herman Riley, Colour Club and the Derek Bordoux Group, just to name a few. He also worked with Contemporary Christian artists, BASIX, Joe Nathan and various LA area choirs. He even had a 4 season run with the Los Angeles Rams Big Band! These days, you can find Bryant performing just about anywhere in and around Southern California.</p>
 <p>Bryant believes that God has blessed him with a gift and a love for all kinds of music and that his versatility allows him to supply good creative, .bottom line. bass wherever it is needed. </p>
 
@@ -275,13 +275,13 @@ much better copy of the video that I'm in the process of digitizing. </p>
 <li>With Andy Taylor . AMERICAN ANTHEM soundtrack (Atlantic)</li>
 <li>With Basix . TODAY and BASIX LIVE</li></ul>
 
-<p>If you'd care to <a href="/contact/">contact Bryant Simpson</a> please send a message to the webmaster of this site.</p>]]>
+<p>If you'd care to <a href="http://perrin3.com/contact/">contact Bryant Simpson</a> please send a message to the webmaster of this site.</p>]]>
     </content>
 </entry>
 
 <entry>
     <title>Bryant Simpson - My Time in the Band Called “ZOT”</title>
-    <link rel="alternate" type="text/html" href="/zot_2/2005/03/my-time-in-zot.html" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/2005/03/my-time-in-zot.html" />
     <id>tag:perrin3.com,2005:/zot_2//15.466</id>
 
     <published>2005-03-26T00:52:49Z</published>
@@ -299,7 +299,7 @@ much better copy of the video that I'm in the process of digitizing. </p>
     <content type="html" xml:lang="en-us" xml:base="http://perrin3.com/zot_2/">
         <![CDATA[<p><b>by Bryant Simpson</b></p>
 
-<p><img src="/images/zot/zot-pr-shoot-1-web.jpg" /><br />
+<p><img src="http://perrin3.com/images/zot/zot-pr-shoot-1-web.jpg" /><br />
 <i>from left to right: Patrick Knowles, <b>Bryant Simpson</b>, Randy Wayne, Chris Stewart</i></p>
 
 <p>It was fall of 1982 when I responded to an ad in a local paper for a band seeking a bass player.  “Zot” was a trio based in Huntington Beach, about 20 minutes from my home in Anaheim.  They had a small but loyal following, playing mostly high school dances and backyard parties.  Their sound was very techno pop, with Randy’s lead vocals reminding me of David Bowie on helium!  My background was in R&B, funk and jazz-fusion, but somehow when we put everything together that day, it felt…great!  They were excited and so was I.  We immediately started rehearsing for some live shows with hopes of making a demo with Zot’s “new sound”. Randy Wayne’s songwriting was strong and while he was not the most musically talented in the band (I always thought Patrick Knowles was), he had lots of charisma. Chris Stewart’s drumming was solid as well and we really locked.  We rehearsed almost daily and as the music got tighter, so did our friendship.  We worked hard and played hard.</p>
@@ -315,7 +315,7 @@ much better copy of the video that I'm in the process of digitizing. </p>
 
 <entry>
     <title>Uranium video shoot</title>
-    <link rel="alternate" type="text/html" href="/zot_2/2005/03/uranium-video-shoot.html" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/2005/03/uranium-video-shoot.html" />
     <id>tag:perrin3.com,2005:/zot_2//15.465</id>
 
     <published>2005-03-10T11:59:47Z</published>
@@ -331,7 +331,7 @@ much better copy of the video that I'm in the process of digitizing. </p>
     
     
     <content type="html" xml:lang="en-us" xml:base="http://perrin3.com/zot_2/">
-        <![CDATA[<p><img src="/images/zot/uranium-shoot-web.jpg" /></p>
+        <![CDATA[<p><img src="http://perrin3.com/images/zot/uranium-shoot-web.jpg" /></p>
 
 <p>I received this undated photo from Bryant Simpson. It shows the band at the video shoot for <i>Uranium</i>.  [from left to right] Chris Stewart, Patrick Knowles, Randy Wayne, and Bryant Simpson.</p>]]>
         
@@ -340,7 +340,7 @@ much better copy of the video that I'm in the process of digitizing. </p>
 
 <entry>
     <title>Patrick&apos;s passing mentioned in friend&apos;s blog</title>
-    <link rel="alternate" type="text/html" href="/zot_2/2005/03/patrick-passing-in-friends-blog.html" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/2005/03/patrick-passing-in-friends-blog.html" />
     <id>tag:perrin3.com,2005:/zot_2//15.464</id>
 
     <published>2005-03-02T10:55:06Z</published>
@@ -358,7 +358,7 @@ much better copy of the video that I'm in the process of digitizing. </p>
     <content type="html" xml:lang="en-us" xml:base="http://perrin3.com/zot_2/">
         <![CDATA[<p>I found a <a href="http://www.mbrindley.com/blog/2005/02/childhood-friend-patrick-knowles.html">blog posting</a> by one of Patricks friends, <a href="http://www.blogger.com/profile/1546440">Michael Brindley</a>, that mentioned Patrick's passing and had a picture.</p>
 
-<p><img src="/images/zot/pat-knowles-brindle.jpg" alt="Patrick Knowles" /></p>
+<p><img src="http://perrin3.com/images/zot/pat-knowles-brindle.jpg" alt="Patrick Knowles" /></p>
 
 <p>This photo appears to be from Patrick's high school days.</p>]]>
         
@@ -367,7 +367,7 @@ much better copy of the video that I'm in the process of digitizing. </p>
 
 <entry>
     <title>Memorial Service for Patrick Knowles</title>
-    <link rel="alternate" type="text/html" href="/zot_2/2005/02/memorial-service-for-patrick-knowles.html" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/2005/02/memorial-service-for-patrick-knowles.html" />
     <id>tag:perrin3.com,2005:/zot_2//15.463</id>
 
     <published>2005-02-09T00:12:44Z</published>
@@ -383,7 +383,7 @@ much better copy of the video that I'm in the process of digitizing. </p>
     
     
     <content type="html" xml:lang="en-us" xml:base="http://perrin3.com/zot_2/">
-        <![CDATA[<p>I received the following from Patrick's sister who asked me to post this information. If you need to get in touch with her I will relay any messages you might have. Please use my <a href="/contact/">contact form</a>.<br />
+        <![CDATA[<p>I received the following from Patrick's sister who asked me to post this information. If you need to get in touch with her I will relay any messages you might have. Please use my <a href="http://perrin3.com/contact/">contact form</a>.<br />
 <hr /><br />
 <em>Hi, I am Patrick's sister Elizabeth.  I didn't know about your website until tonight. I am quite overwhelmed. Details regarding Patrick are as follows:</em></p>
 
@@ -406,14 +406,14 @@ much better copy of the video that I'm in the process of digitizing. </p>
 <p><i>Elizabeth Reynold aka Elizabeth Knowles</i></p>
 
 <hr />
-If you would like to post a message about Patrick please use the form at the bottom of this page: <a href="/zot/where-are-they-now/patrick-knowles-rip.html">Patrick Knowles R.I.P.</a>]]>
+If you would like to post a message about Patrick please use the form at the bottom of this page: <a href="http://perrin3.com/zot/where-are-they-now/patrick-knowles-rip.html">Patrick Knowles R.I.P.</a>]]>
         
     </content>
 </entry>
 
 <entry>
     <title>Patrick Knowles R.I.P.</title>
-    <link rel="alternate" type="text/html" href="/zot_2/2005/02/patrick-knowles-rip.html" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/2005/02/patrick-knowles-rip.html" />
     <id>tag:perrin3.com,2005:/zot_2//15.462</id>
 
     <published>2005-02-05T12:14:35Z</published>
@@ -431,24 +431,24 @@ If you would like to post a message about Patrick please use the form at the bot
     <content type="html" xml:lang="en-us" xml:base="http://perrin3.com/zot_2/">
         <![CDATA[<p>I received some <i>very bad news</i> today.</p>
 
-<div><a class="piclink" href="/images/patrick_knowles.jpg"><img src="/images/patrick-knowles.jpg" alt="Patrick Knowles" width="200" height="185" /></a></div>I don't have many details, but I received a couple of messages today saying that Patrick Knowles passed away on February 3, 2005, and that a memorial service will be held in California at a soon to be determined date.
+<div><a class="piclink" href="http://perrin3.com/images/patrick_knowles.jpg"><img src="http://perrin3.com/images/patrick-knowles.jpg" alt="Patrick Knowles" width="200" height="185" /></a></div>I don't have many details, but I received a couple of messages today saying that Patrick Knowles passed away on February 3, 2005, and that a memorial service will be held in California at a soon to be determined date.
 
 <p>I have heard that Patrick was very sick, and suffering from an old injury to his back. I'm afraid that I don't have any more information than that at the moment.</p>
 
-<p>It's hard to know what to say...I'm pretty shocked to hear this. Just back in October I was hearing about the <a href="/zot/miscellanea/zot-reunion-in-the-works.html">possibilities of a Zot reunion</a>, and now this tragic news.</p>
+<p>It's hard to know what to say...I'm pretty shocked to hear this. Just back in October I was hearing about the <a href="http://perrin3.com/zot/miscellanea/zot-reunion-in-the-works.html">possibilities of a Zot reunion</a>, and now this tragic news.</p>
 
 <p>I know that Patrick will be sorely missed. Whenever I heard from anyone even remotely connected with the band they all asked about Patrick first. Although I never knew the man, I do know that his talent was considerable and that he certainly had a charisma that drew others to him. </p>
 
 <p>Patrick, I'm just an old Zot fan living in Japan, but you and your music made a big impression on more people than you may ever know. The first mail message I ever got concerning the Zot page was from one of your co-workers who told me that you'd seen the page and you'd got a kick out of it. I'd always hoped that someday I'd have the opportunity to get in touch with you and ask you more about your music, but unfortunately that won't be possible now. You were too young to leave us Patrick. </p>
 
-<p>Thank you for all the <a href="/zot/audio-files/">great music</a> and memories!</p>]]>
+<p>Thank you for all the <a href="http://perrin3.com/zot/audio-files/">great music</a> and memories!</p>]]>
         
     </content>
 </entry>
 
 <entry>
     <title>old All Music Guide Zot bio</title>
-    <link rel="alternate" type="text/html" href="/zot_2/2005/02/amg-zot-bio.html" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/2005/02/amg-zot-bio.html" />
     <id>tag:perrin3.com,2005:/zot_2//15.461</id>
 
     <published>2005-02-05T06:33:28Z</published>
@@ -475,7 +475,7 @@ If you would like to post a message about Patrick please use the form at the bot
 
 <entry>
     <title>David Diamond &quot;Pop Star&quot; Interview</title>
-    <link rel="alternate" type="text/html" href="/zot_2/2005/01/david-diamond-interview.html" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/2005/01/david-diamond-interview.html" />
     <id>tag:perrin3.com,2005:/zot_2//15.460</id>
 
     <published>2005-01-21T03:41:25Z</published>
@@ -506,7 +506,7 @@ If you would like to post a message about Patrick please use the form at the bot
 
 <entry>
     <title>Zot reunion in the works?</title>
-    <link rel="alternate" type="text/html" href="/zot_2/2004/10/zot-reunion-in-the-works.html" />
+    <link rel="alternate" type="text/html" href="http://perrin3.com/zot_2/2004/10/zot-reunion-in-the-works.html" />
     <id>tag:perrin3.com,2004:/zot_2//15.459</id>
 
     <published>2004-10-25T13:32:32Z</published>

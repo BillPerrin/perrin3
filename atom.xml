@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
 <title>perrin3.com</title>
-<link rel="alternate" type="text/html" href="/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/" />
 <modified>2008-01-09T01:51:19Z</modified>
 <tagline>The personal web site of Bill Perrin from Osaka, Japan. Info about Japan, stupid stuff Bill&apos;s found on the net, links to cheesy 80&apos;s music, ...a complete waste of bandwidth.</tagline>
 <id>tag:perrin3.com,2013://2</id>
@@ -10,7 +10,7 @@
 
 <entry>
 <title>Howto remove/disable Nero Scout in Nero 8</title>
-<link rel="alternate" type="text/html" href="/tech/howto-remove-nero-scout/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/tech/howto-remove-nero-scout/" />
 <modified>2008-01-09T01:51:19Z</modified>
 <issued>2008-01-09T00:58:57Z</issued>
 <id>tag:perrin3.com,2008://2.293</id>
@@ -37,11 +37,11 @@ If you want to remove Nero Scout from the task bar, uncheck the box „Show Nero
 <p>Here's how it's done:</p>
 <p>From your <b>Start</b> menu (in XP or Vista) click on <b>All Programs</b>, then <b>Nero 8</b>, and then the <b>Nero Toolkit</b> and click on <b>Nero Scout</b>.</p>
 
-<span class="mt-enclosure mt-enclosure-image"><a href="/images/nero-8-scout.png"><img alt="nero-8-scout.png" src="/images/nero-8-scout-thumb-550x339.png" class="mt-image-center" style="margin: 0pt auto 20px; text-align: center; display: block;" height="339" width="550" /></a></span>
+<span class="mt-enclosure mt-enclosure-image"><a href="http://perrin3.com/images/nero-8-scout.png"><img alt="nero-8-scout.png" src="http://perrin3.com/images/nero-8-scout-thumb-550x339.png" class="mt-image-center" style="margin: 0pt auto 20px; text-align: center; display: block;" height="339" width="550" /></a></span>
 
 <p>This will bring up the Nero Scout Options dialog box:</p>
 
-<span class="mt-enclosure mt-enclosure-image"><a href="/images/nero-8-scout-options.png"><img alt="nero-8-scout-options.png" src="/images/nero-8-scout-options-thumb-550x408.png" class="mt-image-center" style="margin: 0pt auto 20px; text-align: center; display: block;" height="408" width="550" /></a></span>
+<span class="mt-enclosure mt-enclosure-image"><a href="http://perrin3.com/images/nero-8-scout-options.png"><img alt="nero-8-scout-options.png" src="http://perrin3.com/images/nero-8-scout-options-thumb-550x408.png" class="mt-image-center" style="margin: 0pt auto 20px; text-align: center; display: block;" height="408" width="550" /></a></span>
 
 <p>Simply uncheck the box that says <i>Enable Nero Scout</i>. This will shutdown these services:</p>
 <ul>
@@ -59,7 +59,7 @@ If you want to remove Nero Scout from the task bar, uncheck the box „Show Nero
 
 <entry>
 <title>Consulate General of China in Osaka</title>
-<link rel="alternate" type="text/html" href="/japan/china-consulate-osaka/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/japan/china-consulate-osaka/" />
 <modified>2007-04-17T10:12:34Z</modified>
 <issued>2006-09-16T01:52:30Z</issued>
 <id>tag:perrin3.com,2006://2.129</id>
@@ -87,8 +87,8 @@ If you want to remove Nero Scout from the task bar, uncheck the box „Show Nero
 <p>This consulate covers Osaka, Kyoto, Nara, Wakayama, Shiga, Mie, Tokushima, Kagawa, Ehime, Kochi, Okayama, Tottori, Shimane, and Hiroshima.</p>
 
 <p><strong>Hours</strong>: 9AM - 12PM &amp; 1:30PM - 2:30PM<br />
-<a href="/images/china-consulate-hours.jpg"><br />
-<img src="/images/china-consulate-hours-thumb.jpg" width="200" height="150" alt="China Consulate in Osaka - hours" /></a></p>
+<a href="http://perrin3.com/images/china-consulate-hours.jpg"><br />
+<img src="http://perrin3.com/images/china-consulate-hours-thumb.jpg" width="200" height="150" alt="China Consulate in Osaka - hours" /></a></p>
 
 <p><strong>Subway:</strong></p>
 
@@ -104,7 +104,7 @@ Mapion Map</a></li><li><a href="http://map.yahoo.co.jp/pl?lat=34.40.46.354&lon=1
 Yahoo Map</a></li></ul>
 
 <p>Get out of the subway at either Exit 3 or Exit 9. Exit 9 is the closest. You'll have to walk a little bit if you get out of Exit 3. From Exit 9 you make a 180&#176; turn to the right and head toward the brownish orange brick building on the left side of the road. It's about 200 meters from Exit 9.<br />
-<a href="/images/china-consulate-osaka.jpg"><img src="/images/china-consulate-osaka-thumb.jpg" width="150" height="200" alt="China Consulate in Osaka" /></a></p>
+<a href="http://perrin3.com/images/china-consulate-osaka.jpg"><img src="http://perrin3.com/images/china-consulate-osaka-thumb.jpg" width="150" height="200" alt="China Consulate in Osaka" /></a></p>
 
 <p><strong>What to bring:</strong></p>
 
@@ -126,7 +126,7 @@ Yahoo Map</a></li></ul>
 
 <entry>
 <title>PGP</title>
-<link rel="alternate" type="text/html" href="/tech/pgp/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/tech/pgp/" />
 <modified>2007-09-04T10:40:12Z</modified>
 <issued>2005-12-04T03:36:36Z</issued>
 <id>tag:perrin3.com,2005://2.77</id>
@@ -267,7 +267,7 @@ peo+HMJ2lNJzPMgIB2PH<br />
 
 <entry>
 <title>No Proxy Servers</title>
-<link rel="alternate" type="text/html" href="/tech/no-proxy-server/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/tech/no-proxy-server/" />
 <modified>2008-07-04T04:40:22Z</modified>
 <issued>2005-09-25T06:48:00Z</issued>
 <id>tag:perrin3.com,2005://2.57</id>
@@ -299,7 +299,7 @@ Anonymous surfing with a bunch of alternate proxies available.</p>]]>
 
 <entry>
 <title><![CDATA[Japan News &amp; Info]]></title>
-<link rel="alternate" type="text/html" href="/japan/japan-news-info/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/japan/japan-news-info/" />
 <modified>2006-03-12T06:02:42Z</modified>
 <issued>2004-10-23T08:17:07Z</issued>
 <id>tag:perrin3.com,2004://2.64</id>
@@ -423,7 +423,7 @@ Tokyo</p>]]>
 
 <entry>
 <title>Translating Japanese Online</title>
-<link rel="alternate" type="text/html" href="/japan/translating-japanese-online/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/japan/translating-japanese-online/" />
 <modified>2006-03-12T06:03:17Z</modified>
 <issued>2003-10-23T08:11:20Z</issued>
 <id>tag:perrin3.com,2003://2.63</id>
@@ -520,7 +520,7 @@ English interface | E =&gt; J | URL</p>
 
 <entry>
 <title>Japanese Search Engines and Directories</title>
-<link rel="alternate" type="text/html" href="/japan/japanese-search-engines/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/japan/japanese-search-engines/" />
 <modified>2006-03-12T06:48:25Z</modified>
 <issued>2003-08-23T08:21:21Z</issued>
 <id>tag:perrin3.com,2003://2.65</id>
@@ -754,68 +754,68 @@ Google AdWords</td>
 <tbody>
 <tr>
 <td class="white"><a href="http://www.goo.ne.jp/">
-<img src="/images/se/goo.gif" alt="goo" width="50" height="25" /></a></td>
+<img src="http://perrin3.com/images/se/goo.gif" alt="goo" width="50" height="25" /></a></td>
 <td><a href="http://www.goo.ne.jp/">goo</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.google.co.jp">
-<img src="/images/se/google.gif" alt="Google" width="128" height="53" /></a></td>
+<img src="http://perrin3.com/images/se/google.gif" alt="Google" width="128" height="53" /></a></td>
 <td><a href="http://www.google.co.jp">Google</a></td>
 </tr>
 <tr>
-<td class="white"><a href="http://www.tocc.co.jp/search/"><img src="/images/se/tocc.gif" width="128" height="35" alt="Traffic One Communications Corporation" /></a></td>
+<td class="white"><a href="http://www.tocc.co.jp/search/"><img src="http://perrin3.com/images/se/tocc.gif" width="128" height="35" alt="Traffic One Communications Corporation" /></a></td>
 <td><a href="http://www.tocc.co.jp/search/">TOCC</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.excite.co.jp">
-<img src="/images/se/excite.gif" alt="Excite Japan" width="84" height="33" /></a></td>
+<img src="http://perrin3.com/images/se/excite.gif" alt="Excite Japan" width="84" height="33" /></a></td>
 <td><a href="http://www.excite.co.jp">Excite Japan</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.alltheweb.com">
-<img src="/images/se/alltheweb.gif" alt="Fast / All the Web" width="94" height="16" /></a></td>
+<img src="http://perrin3.com/images/se/alltheweb.gif" alt="Fast / All the Web" width="94" height="16" /></a></td>
 <td><a href="http://www.alltheweb.com">Fast / All the Web</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.altavista.com">
-<img src="/images/se/altavista.gif" alt="AltaVista" width="115" height="41" /></a></td>
+<img src="http://perrin3.com/images/se/altavista.gif" alt="AltaVista" width="115" height="41" /></a></td>
 <td><a href="http://www.odoru.org/altavista/">AltaVista</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.naver.co.jp">
-<img src="/images/se/naver.gif" alt="Naver Japan" width="96" height="21" /></a></td>
+<img src="http://perrin3.com/images/se/naver.gif" alt="Naver Japan" width="96" height="21" /></a></td>
 <td><a href="http://www.naver.co.jp">Naver Japan</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.infoseek.co.jp">
-<img src="/images/se/infoseek.gif" alt="Infoseek Japan K.K." width="70" height="31" /></a></td>
+<img src="http://perrin3.com/images/se/infoseek.gif" alt="Infoseek Japan K.K." width="70" height="31" /></a></td>
 <td><a href="http://www.infoseek.co.jp">infoseek Japan</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.lycos.co.jp">
-<img src="/images/se/lycos.gif" alt="Lycos Japan" width="90" height="30" /></a></td>
+<img src="http://perrin3.com/images/se/lycos.gif" alt="Lycos Japan" width="90" height="30" /></a></td>
 <td><a href="http://www.lycos.co.jp">Lycos Japan</a></td>
 </tr>
 <tr>
-<td class="white"><a href="http://infonavi.infoweb.ne.jp"><img src="/images/se/infonavi.gif" width="128" height="20" alt="InfoNavigator Hayate" /></a></td>
+<td class="white"><a href="http://infonavi.infoweb.ne.jp"><img src="http://perrin3.com/images/se/infonavi.gif" width="128" height="20" alt="InfoNavigator Hayate" /></a></td>
 <td><a href="http://infonavi.infoweb.ne.jp">InfoNavigator Hayate</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.fresheye.com">
-<img src="/images/se/fresheye.gif" alt="FreshEye" width="88" height="31" /></a></td>
+<img src="http://perrin3.com/images/se/fresheye.gif" alt="FreshEye" width="88" height="31" /></a></td>
 <td><a href="http://www.fresheye.com">FreshEye</a></td>
 </tr>
 <tr>
-<td class="white"><a href="http://verno.ueda.info.waseda.ac.jp"><img src="/images/se/verno.gif" width="128" height="41" alt="Verno" /></a></td>
+<td class="white"><a href="http://verno.ueda.info.waseda.ac.jp"><img src="http://perrin3.com/images/se/verno.gif" width="128" height="41" alt="Verno" /></a></td>
 <td><a href="http://verno.ueda.info.waseda.ac.jp">Verno</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.mycom.co.jp">
-<img src="/images/se/mycom.gif" alt="MYCOM PC WEB - Search" width="70" height="16" /></a></td>
+<img src="http://perrin3.com/images/se/mycom.gif" alt="MYCOM PC WEB - Search" width="70" height="16" /></a></td>
 <td><a href="http://www.mycom.co.jp">MYCOM PC WEB - Search</a></td>
 </tr>
 <tr>
-<td class="white"><a href="http://www.kuamp.kyoto-u.ac.jp/labs/infocom/mondou/"><img src="/images/se/rcaau.gif" width="128" height="28" alt="Mondou (RCAAU)" /></a></td>
+<td class="white"><a href="http://www.kuamp.kyoto-u.ac.jp/labs/infocom/mondou/"><img src="http://perrin3.com/images/se/rcaau.gif" width="128" height="28" alt="Mondou (RCAAU)" /></a></td>
 <td><a href="http://www.kuamp.kyoto-u.ac.jp/labs/infocom/mondou/">Mondou (RCAAU)</a></td>
 </tr>
 <tr>
@@ -832,7 +832,7 @@ Google AdWords</td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.lisa.co.jp">
-<img src="/images/se/lisa.gif" alt="Lisa" width="90" height="40" /></a></td>
+<img src="http://perrin3.com/images/se/lisa.gif" alt="Lisa" width="90" height="40" /></a></td>
 <td><a href="http://www.lisa.co.jp">Lisa</a></td>
 </tr>
 </tbody>
@@ -844,41 +844,41 @@ Google AdWords</td>
 <tbody>
 <tr>
 <td class="white"><a href="http://www.yahoo.co.jp">
-<img src="/images/se/yahoo.gif" alt="Yahoo! Japan" width="50" height="51" /></a></td>
+<img src="http://perrin3.com/images/se/yahoo.gif" alt="Yahoo! Japan" width="50" height="51" /></a></td>
 <td><a href="http://www.yahoo.co.jp">Yahoo! Japan</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.goo.ne.jp">
-<img src="/images/se/goo.gif" alt="goo" width="50" height="25" /></a></td>
+<img src="http://perrin3.com/images/se/goo.gif" alt="goo" width="50" height="25" /></a></td>
 <td><a href="http://www.goo.ne.jp">goo</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.google.co.jp/dirhp?hl=ja">
-<img src="/images/se/google.gif" alt="Google" width="128" height="53" /></a></td>
+<img src="http://perrin3.com/images/se/google.gif" alt="Google" width="128" height="53" /></a></td>
 <td><a href="http://www.google.co.jp/dirhp?hl=ja">Google</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://search.msn.co.jp">
-<img src="/images/se/msn.gif" alt="MSN" width="140" height="60" /></a></td>
+<img src="http://perrin3.com/images/se/msn.gif" alt="MSN" width="140" height="60" /></a></td>
 <td><a href="http://search.msn.co.jp">MSN</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.excite.co.jp">
-<img src="/images/se/excite.gif" alt="Excite Japan" width="84" height="33" /></a></td>
+<img src="http://perrin3.com/images/se/excite.gif" alt="Excite Japan" width="84" height="33" /></a></td>
 <td><a href="http://www.excite.co.jp">Excite Japan</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.lycos.co.jp">
-<img src="/images/se/lycos.gif" alt="Lycos Japan" width="90" height="30" /></a></td>
+<img src="http://perrin3.com/images/se/lycos.gif" alt="Lycos Japan" width="90" height="30" /></a></td>
 <td><a href="http://www.lycos.co.jp">Lycos Japan</a></td>
 </tr>
 <tr>
-<td class="white"><img src="/images/se/isize.gif" alt="ISIZE" width="88" height="31" /></td>
+<td class="white"><img src="http://perrin3.com/images/se/isize.gif" alt="ISIZE" width="88" height="31" /></td>
 <td><a href="http://dir.isize.com">ISIZE</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.inetg.com">
-<img src="/images/se/inetguide.gif" alt="iNET Guide" width="90" height="35" /></a></td>
+<img src="http://perrin3.com/images/se/inetguide.gif" alt="iNET Guide" width="90" height="35" /></a></td>
 <td><a href="http://www.inetg.com">iNET Guide</a></td>
 </tr>
 <tr>
@@ -887,56 +887,56 @@ Google AdWords</td>
 </tr>
 <tr>
 <td class="white"><a href="http://joyjoy.com">
-<img src="/images/se/joy.gif" alt="Japanese Open Yellowpages" width="88" height="31" /></a></td>
+<img src="http://perrin3.com/images/se/joy.gif" alt="Japanese Open Yellowpages" width="88" height="31" /></a></td>
 <td><a href="http://joyjoy.com">J.O.Y.</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.infoseek.co.jp">
-<img src="/images/se/infoseek.gif" alt="Infoseek Japan Web Directory" width="70" height="31" /></a></td>
+<img src="http://perrin3.com/images/se/infoseek.gif" alt="Infoseek Japan Web Directory" width="70" height="31" /></a></td>
 <td><a href="http://www.infoseek.co.jp">Infoseek Japan</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://allabout.co.jp">
-<img src="/images/se/allabout.gif" alt="All About Japan" width="88" height="31" /></a></td>
+<img src="http://perrin3.com/images/se/allabout.gif" alt="All About Japan" width="88" height="31" /></a></td>
 <td><a href="http://allabout.co.jp">All About Japan</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://dmoz.org/world/japanese/">
-<img src="/images/se/dmoz.gif" alt="Netscape Open Directory Project" width="88" height="31" /></a></td>
+<img src="http://perrin3.com/images/se/dmoz.gif" alt="Netscape Open Directory Project" width="88" height="31" /></a></td>
 <td><a href="http://dmoz.org/world/japanese/">DMOZ</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.fresheye.com">
-<img src="/images/se/fresheye.gif" alt="FreshEye" width="88" height="31" /></a></td>
+<img src="http://perrin3.com/images/se/fresheye.gif" alt="FreshEye" width="88" height="31" /></a></td>
 <td><a href="http://www.fresheye.com">FreshEye</a></td>
 </tr>
 <tr>
-<td class="white"><a href="http://www.jicoo.co.jp"><img src="/images/se/jicoo.png" alt="Jicoo" width="120" height="55" /></a></td>
+<td class="white"><a href="http://www.jicoo.co.jp"><img src="http://perrin3.com/images/se/jicoo.png" alt="Jicoo" width="120" height="55" /></a></td>
 <td><a href="http://www.jicoo.co.jp">Jicoo</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.mycom.co.jp">
-<img src="/images/se/mycom.gif" alt="MYCOM PC WEB " width="70" height="16" /></a></td>
+<img src="http://perrin3.com/images/se/mycom.gif" alt="MYCOM PC WEB " width="70" height="16" /></a></td>
 <td><a href="http://www.mycom.co.jp">MYCOM PC WEB - Search</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.netisland.jp">
-<img src="/images/se/netisland.gif" alt="Netisland" width="107" height="18" /></a></td>
+<img src="http://perrin3.com/images/se/netisland.gif" alt="Netisland" width="107" height="18" /></a></td>
 <td><a href="http://www.netisland.jp">Netisland</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.kyoto-net.com">
-<img src="/images/se/netofficenakai.gif" alt="Net Office Nakai" width="88" height="32" /></a></td>
+<img src="http://perrin3.com/images/se/netofficenakai.gif" alt="Net Office Nakai" width="88" height="32" /></a></td>
 <td><a href="http://www.kyoto-net.com">Net Office Nakai</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://odir.ingrid.org">
-<img src="/images/se/odin2.gif" alt="Open Documentary Information Navigator" width="88" height="31" /></a></td>
+<img src="http://perrin3.com/images/se/odin2.gif" alt="Open Documentary Information Navigator" width="88" height="31" /></a></td>
 <td><a href="http://odir.ingrid.org">ODiN</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.jboy.com">
-<img src="/images/se/webgate.jpg" alt="WebGate" width="64" height="48" /></a></td>
+<img src="http://perrin3.com/images/se/webgate.jpg" alt="WebGate" width="64" height="48" /></a></td>
 <td><a href="http://www.jboy.com">WebGate</a></td>
 </tr>
 </tbody>
@@ -948,37 +948,37 @@ Google AdWords</td>
 <tbody>
 <tr>
 <td class="white"><a href="http://www.nifty.com/search/">
-<img src="/images/se/at_search.gif" alt="Nifty @search" width="88" height="31" /></a></td>
+<img src="http://perrin3.com/images/se/at_search.gif" alt="Nifty @search" width="88" height="31" /></a></td>
 <td><a href="http://www.nifty.com/search/">@search</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://search.biglobe.ne.jp">
-<img src="/images/se/biglobeattayo.gif" alt="BIGLOBE Search Attayo" width="88" height="31" /></a></td>
+<img src="http://perrin3.com/images/se/biglobeattayo.gif" alt="BIGLOBE Search Attayo" width="88" height="31" /></a></td>
 <td><a href="http://search.biglobe.ne.jp">BIGLOBE Search Attayo</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://search.odn.ne.jp">
-<img src="/images/se/odn.gif" alt="ODN Search" width="114" height="52" /></a></td>
+<img src="http://perrin3.com/images/se/odn.gif" alt="ODN Search" width="114" height="52" /></a></td>
 <td><a href="http://search.odn.ne.jp">ODN Search</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://search.hi-ho.ne.jp">
-<img src="/images/se/hi-ho.gif" alt="Hi-HO e-Search" width="88" height="31" /></a></td>
+<img src="http://perrin3.com/images/se/hi-ho.gif" alt="Hi-HO e-Search" width="88" height="31" /></a></td>
 <td><a href="http://search.hi-ho.ne.jp">Hi-HO e-Search</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://search.ocn.ne.jp">
-<img src="/images/se/ocn.gif" alt="OCN Search" width="100" height="40" /></a></td>
+<img src="http://perrin3.com/images/se/ocn.gif" alt="OCN Search" width="100" height="40" /></a></td>
 <td><a href="http://search.ocn.ne.jp">OCN Search</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://search.jp.aol.com">
-<img src="/images/se/aolnetfind.gif" alt="AOL NetFind" width="115" height="40" /></a></td>
+<img src="http://perrin3.com/images/se/aolnetfind.gif" alt="AOL NetFind" width="115" height="40" /></a></td>
 <td><a href="http://search.jp.aol.com">AOL NetFind</a></td>
 </tr>
 <tr>
 <td class="white"><a href="http://www.dion.ne.jp">
-<img src="/images/se/dion.gif" alt="DION" width="100" height="25" /></a></td>
+<img src="http://perrin3.com/images/se/dion.gif" alt="DION" width="100" height="25" /></a></td>
 <td><a href="http://www.dion.ne.jp">DION</a></td>
 </tr>
 </tbody>
@@ -989,7 +989,7 @@ Google AdWords</td>
 
 <entry>
 <title>Using Japanese on an English PC</title>
-<link rel="alternate" type="text/html" href="/japan/using-ja-on-en-pc/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/japan/using-ja-on-en-pc/" />
 <modified>2006-03-12T06:03:52Z</modified>
 <issued>2003-04-05T09:01:37Z</issued>
 <id>tag:perrin3.com,2003://2.62</id>
@@ -1097,7 +1097,7 @@ without requiring Japanese software on your system.</p>]]>
 
 <entry>
 <title>ye olde 80s music page</title>
-<link rel="alternate" type="text/html" href="/music/old-music/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/music/old-music/" />
 <modified>2007-01-22T09:08:51Z</modified>
 <issued>2001-03-09T06:57:30Z</issued>
 <id>tag:perrin3.com,2001://2.69</id>
@@ -1116,7 +1116,7 @@ in the 1980's. However, there are a few bands here that have survived into the 9
 Regardless of their musical ability, the bands on this page are some of my favorites 
 from the New Wave, Gothic, and Industrial genres.</p>
 <p class="centertext"><a href="http://www.thecure.jp/petition/en/">
-<img src="/images/cure_banner1l.gif" alt="Petition for The Cure Live in Japan" width="348" height="63" /></a></p>]]>
+<img src="http://perrin3.com/images/cure_banner1l.gif" alt="Petition for The Cure Live in Japan" width="348" height="63" /></a></p>]]>
 <![CDATA[<p>While you're surfing around you can listen to the radio station I used to DJ 
 on at Connecticut College
 <a href="http://video.conncoll.edu/wcni/wcni64k.mov">WCNI 91.1 FM</a> now 90.9 FM. Or you can check out my
@@ -1944,7 +1944,7 @@ music</a></td>
 music</a></td>
 </tr>
 <tr>
-<td><a name="Z"></a><a href="/zot/">Zot</a></td>
+<td><a name="Z"></a><a href="http://perrin3.com/zot/">Zot</a></td>
 <td>
 <p>Zot</p>
 </td>
@@ -1970,7 +1970,7 @@ music</a></td>
 
 <entry>
 <title>Al Gore Songs</title>
-<link rel="alternate" type="text/html" href="/stupid/al-gore-songs/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/stupid/al-gore-songs/" />
 <modified>2006-03-12T06:41:28Z</modified>
 <issued>2000-12-04T02:56:30Z</issued>
 <id>tag:perrin3.com,2000://2.75</id>
@@ -1985,13 +1985,13 @@ music</a></td>
 <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://perrin3.com/">
 <![CDATA[<p>Al Gore went down to Florida...and other songs<p>]]>
 <![CDATA[<div class="centertext">
-<img src="/images/gore_projection.jpg" alt="Al Gore projection" width="300" height="247" />
+<img src="http://perrin3.com/images/gore_projection.jpg" alt="Al Gore projection" width="300" height="247" />
 </div>
 <p>A few Al Gore inspired songs I found mildly amusing</p>
 <ul>
-<li><a href="/sound/real/AlGorewentDowntoFlorida.rm">Al Gore went down 
+<li><a href="http://perrin3.com/sound/real/AlGorewentDowntoFlorida.rm">Al Gore went down 
 to Florida</a> Real Audio</li>
-<li><a href="/sound/real/AlgoreandBart_sDenial.rm">Al Gore &amp; Bart Simpson 
+<li><a href="http://perrin3.com/sound/real/AlgoreandBart_sDenial.rm">Al Gore &amp; Bart Simpson 
 Deny Everything</a> Real Audio</li>
 </ul>
 ]]>
@@ -2000,7 +2000,7 @@ Deny Everything</a> Real Audio</li>
 
 <entry>
 <title>Fake Virus</title>
-<link rel="alternate" type="text/html" href="/stupid/fake-virus/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/stupid/fake-virus/" />
 <modified>2006-02-26T08:25:27Z</modified>
 <issued>1998-12-04T02:40:09Z</issued>
 <id>tag:perrin3.com,1998://2.73</id>
@@ -2137,7 +2137,7 @@ alerted_already = false;
 
 <entry>
 <title>The Textual Abuse Page</title>
-<link rel="alternate" type="text/html" href="/stupid/textual-abuse-page/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/stupid/textual-abuse-page/" />
 <modified>2006-02-26T08:25:51Z</modified>
 <issued>1998-12-03T08:18:17Z</issued>
 <id>tag:perrin3.com,1998://2.70</id>
@@ -2674,7 +2674,7 @@ Looks<form action="abuse_page.htm">
 
 <entry>
 <title>Bill and Monica Song</title>
-<link rel="alternate" type="text/html" href="/stupid/bill-and-monica-song/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/stupid/bill-and-monica-song/" />
 <modified>2006-03-12T06:36:57Z</modified>
 <issued>1998-09-04T01:52:45Z</issued>
 <id>tag:perrin3.com,1998://2.74</id>
@@ -2689,11 +2689,11 @@ Looks<form action="abuse_page.htm">
 <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://perrin3.com/">
 <![CDATA[<p>This song may be considered inappropriate or offensive...but what the heck...</p>]]>
 <![CDATA[<div class="centertext">
-<img src="/images/Clinton_stamp.jpg" alt="The Bill Clinton Legacy" width="194" height="233" />
+<img src="http://perrin3.com/images/Clinton_stamp.jpg" alt="The Bill Clinton Legacy" width="194" height="233" />
 </div>
 
 <ul>
-<li><a href="/sound/real/monica_song.rm">Bill &amp; Monica song</a> Real Audio</li>
+<li><a href="http://perrin3.com/sound/real/monica_song.rm">Bill &amp; Monica song</a> Real Audio</li>
 </ul>
 ]]>
 </content>
@@ -2701,7 +2701,7 @@ Looks<form action="abuse_page.htm">
 
 <entry>
 <title>Kill your &quot;friend&apos;s&quot; computer</title>
-<link rel="alternate" type="text/html" href="/stupid/email-java/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/stupid/email-java/" />
 <modified>2007-03-14T00:35:35Z</modified>
 <issued>1997-12-03T11:09:50Z</issued>
 <id>tag:perrin3.com,1997://2.72</id>
@@ -2815,7 +2815,7 @@ window.setTimeout('faketake(-1)',200);
 
 <entry>
 <title>You know you&apos;ve been in Japan too long when...</title>
-<link rel="alternate" type="text/html" href="/stupid/been-in-japan-too-long/" />
+<link rel="alternate" type="text/html" href="http://perrin3.com/stupid/been-in-japan-too-long/" />
 <modified>2005-12-03T12:09:43Z</modified>
 <issued>1997-12-03T10:43:36Z</issued>
 <id>tag:perrin3.com,1997://2.71</id>

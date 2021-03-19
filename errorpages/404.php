@@ -113,7 +113,7 @@ mail($to, $subject, $message, $headers);
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
 <meta http-equiv="content-language" content="en" />
 <meta name="author" content="William G. Perrin III" />
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://perrin3.com/favicon.ico" type="image/x-icon" />
 <style type="text/css" media="all">@import "../bill_style.css";</style>
 <script type="text/javascript" src="../nn4.js"></script>
 </head>
@@ -142,7 +142,7 @@ mail($to, $subject, $message, $headers);
 <ul>
 <li class="first"><a href="../index.html">Home</a>
 <ul>
-<li>ï¿½ 404 Error </li>
+<li>» 404 Error </li>
 </ul>
 </li>
 </ul>
@@ -206,7 +206,7 @@ the problem and remedy the situation.</p>
 </div>
 <!--begin Copyright -->
 
-<p id="copyright">ï¿½ 1996-2003 by<br />
+<p id="copyright">© 1996-2003 by<br />
 Bill Perrin<br />
 WARNING: Do not operate heavy machinery within six hours of viewing these pages.</p>
 
