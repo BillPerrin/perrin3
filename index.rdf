@@ -1,216 +1,200 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<rdf:RDF
-xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-xmlns:dc="http://purl.org/dc/elements/1.1/"
-xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-xmlns:admin="http://webns.net/mvcb/"
-xmlns:cc="http://web.resource.org/cc/"
-xmlns="http://purl.org/rss/1.0/">
-
-<channel rdf:about="http://perrin3.com/">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+<channel>
 <title>perrin3.com</title>
 <link>http://perrin3.com/</link>
-<description>The personal web site of Bill Perrin from Osaka, Japan. Info about Japan, stupid stuff Bill&apos;s found on the net, links to cheesy 80&apos;s music, ...a complete waste of bandwidth.</description>
-<dc:language>en</dc:language>
-<dc:creator></dc:creator>
-<dc:date>2008-01-09T09:58:57+09:00</dc:date>
-<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=4.38" />
+<description>The personal web site of Bill Perrin from Osaka, Japan. Info about Japan, stupid stuff Bill's found on the net, links to cheesy 80's music, ...a complete waste of bandwidth.</description>
+<language>en</language>
+<copyright>Copyright 2013</copyright>
+<lastBuildDate>Wed, 09 Jan 2008 09:58:57 +0900</lastBuildDate>
+<generator>http://www.movabletype.org/?v=4.38</generator>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs> 
 
 
-<items>
-<rdf:Seq>
-<rdf:li rdf:resource="http://perrin3.com/tech/howto-remove-nero-scout/" />
-
-<rdf:li rdf:resource="http://perrin3.com/japan/china-consulate-osaka/" />
-
-<rdf:li rdf:resource="http://perrin3.com/tech/pgp/" />
-
-<rdf:li rdf:resource="http://perrin3.com/tech/no-proxy-server/" />
-
-<rdf:li rdf:resource="http://perrin3.com/japan/japan-news-info/" />
-
-<rdf:li rdf:resource="http://perrin3.com/japan/translating-japanese-online/" />
-
-<rdf:li rdf:resource="http://perrin3.com/japan/japanese-search-engines/" />
-
-<rdf:li rdf:resource="http://perrin3.com/japan/using-ja-on-en-pc/" />
-
-<rdf:li rdf:resource="http://perrin3.com/music/old-music/" />
-
-<rdf:li rdf:resource="http://perrin3.com/stupid/al-gore-songs/" />
-
-<rdf:li rdf:resource="http://perrin3.com/stupid/fake-virus/" />
-
-<rdf:li rdf:resource="http://perrin3.com/stupid/textual-abuse-page/" />
-
-<rdf:li rdf:resource="http://perrin3.com/stupid/bill-and-monica-song/" />
-
-<rdf:li rdf:resource="http://perrin3.com/stupid/email-java/" />
-
-<rdf:li rdf:resource="http://perrin3.com/stupid/been-in-japan-too-long/" />
-</rdf:Seq>
-</items>
-
-</channel>
-
-
-<item rdf:about="http://perrin3.com/tech/howto-remove-nero-scout/">
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Perrin3" /><feedburner:info uri="perrin3" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><geo:lat>34.68351089371352</geo:lat><geo:long>135.58784365653992</geo:long><item>
 <title>Howto remove/disable Nero Scout in Nero 8</title>
-<link>http://perrin3.com/tech/howto-remove-nero-scout/</link>
-<description><![CDATA[<p>In the time that I've used Nero 8 I've found it seems to run more smoothly than its predecessor. However, one leftover still remains that I think is completely unnecessary, Nero Scout. If you search the web you'll find many pages telling you how to remove Nero Scout from Nero 7. It's a major system hog that will suck away your resources. </p>]]></description>
-<dc:subject>Tech</dc:subject>
-<dc:creator>Bill</dc:creator>
-<dc:date>2008-01-09T09:58:57+09:00</dc:date>
-</item>
+<description>&lt;p&gt;In the time that I've used Nero 8 I've found it seems to run more smoothly than its predecessor. However, one leftover still remains that I think is completely unnecessary, Nero Scout. If you search the web you'll find many pages telling you how to remove Nero Scout from Nero 7. It's a major system hog that will suck away your resources. &lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=zTRhGihmMMs:iYcaHjJbPb8:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=zTRhGihmMMs:iYcaHjJbPb8:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=zTRhGihmMMs:iYcaHjJbPb8:U940X47jMkY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=U940X47jMkY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=zTRhGihmMMs:iYcaHjJbPb8:Xp3ro2EikiI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=Xp3ro2EikiI" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Perrin3/~4/zTRhGihmMMs" height="1" width="1" alt=""/&gt;</description>
+<link>http://feedproxy.google.com/~r/Perrin3/~3/zTRhGihmMMs/</link>
+<guid isPermaLink="false">http://perrin3.com/tech/howto-remove-nero-scout/</guid>
+<category>Tech</category>
+<pubDate>Wed, 09 Jan 2008 09:58:57 +0900</pubDate>
+<feedburner:origLink>http://perrin3.com/tech/howto-remove-nero-scout/</feedburner:origLink></item>
 
-<item rdf:about="http://perrin3.com/japan/china-consulate-osaka/">
+<item>
 <title>Consulate General of China in Osaka</title>
-<link>http://perrin3.com/japan/china-consulate-osaka/</link>
-<description><![CDATA[<p>Getting ready to head off to China on a business trip or holiday? Don't forget to apply for your visa well in advance. There are only two countries that I know of that don't need visas for short trips, Japan and Singapore. Everyone else needs one.</p>
+<description>&lt;p&gt;Getting ready to head off to China on a business trip or holiday? Don't forget to apply for your visa well in advance. There are only two countries that I know of that don't need visas for short trips, Japan and Singapore. Everyone else needs one.&lt;/p&gt;
 
-<p>Here's how to get to the Chinese Consulate in Osaka and apply for a visa.</p>]]></description>
-<dc:subject>Japan</dc:subject>
-<dc:creator>Bill</dc:creator>
-<dc:date>2006-09-16T11:52:30+09:00</dc:date>
-</item>
+&lt;p&gt;Here's how to get to the Chinese Consulate in Osaka and apply for a visa.&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=bG3DCAOQvnE:_GuEv7xPyPI:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=bG3DCAOQvnE:_GuEv7xPyPI:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=bG3DCAOQvnE:_GuEv7xPyPI:U940X47jMkY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=U940X47jMkY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=bG3DCAOQvnE:_GuEv7xPyPI:Xp3ro2EikiI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=Xp3ro2EikiI" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Perrin3/~4/bG3DCAOQvnE" height="1" width="1" alt=""/&gt;</description>
+<link>http://feedproxy.google.com/~r/Perrin3/~3/bG3DCAOQvnE/</link>
+<guid isPermaLink="false">http://perrin3.com/japan/china-consulate-osaka/</guid>
+<category>Japan</category>
+<pubDate>Sat, 16 Sep 2006 11:52:30 +0900</pubDate>
+<feedburner:origLink>http://perrin3.com/japan/china-consulate-osaka/</feedburner:origLink></item>
 
-<item rdf:about="http://perrin3.com/tech/pgp/">
+<item>
 <title>PGP</title>
-<link>http://perrin3.com/tech/pgp/</link>
-<description><![CDATA[<p>PGP is the original encryption tool for securing your communications and data. PGP stands for <a href="http://pgp.com/">Pretty Good Privacy</a>. Released by Phil Zimmerman in 1991, Network Associates acquired PGP Inc. at the end of 1997, but PGP Corporation eventually bought back PGP products and intellectual property from Network Associates in 2002.</p>]]></description>
-<dc:subject>Tech</dc:subject>
-<dc:creator>Bill</dc:creator>
-<dc:date>2005-12-04T12:36:36+09:00</dc:date>
-</item>
+<description>&lt;p&gt;PGP is the original encryption tool for securing your communications and data. PGP stands for &lt;a href="http://pgp.com/"&gt;Pretty Good Privacy&lt;/a&gt;. Released by Phil Zimmerman in 1991, Network Associates acquired PGP Inc. at the end of 1997, but PGP Corporation eventually bought back PGP products and intellectual property from Network Associates in 2002.&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=ejBpLw2ghXE:BX8XgBJEJt8:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=ejBpLw2ghXE:BX8XgBJEJt8:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=ejBpLw2ghXE:BX8XgBJEJt8:U940X47jMkY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=U940X47jMkY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=ejBpLw2ghXE:BX8XgBJEJt8:Xp3ro2EikiI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=Xp3ro2EikiI" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Perrin3/~4/ejBpLw2ghXE" height="1" width="1" alt=""/&gt;</description>
+<link>http://feedproxy.google.com/~r/Perrin3/~3/ejBpLw2ghXE/</link>
+<guid isPermaLink="false">http://perrin3.com/tech/pgp/</guid>
+<category>Tech</category>
+<pubDate>Sun, 04 Dec 2005 12:36:36 +0900</pubDate>
+<feedburner:origLink>http://perrin3.com/tech/pgp/</feedburner:origLink></item>
 
-<item rdf:about="http://perrin3.com/tech/no-proxy-server/">
+<item>
 <title>No Proxy Servers</title>
-<link>http://perrin3.com/tech/no-proxy-server/</link>
-<description><![CDATA[<p>Occasionally I like to surf the net without "big brother" looking over my shoulder. These links will let you surf without too many people knowing where you are coming from...</p>]]></description>
-<dc:subject>Tech</dc:subject>
-<dc:creator>Bill</dc:creator>
-<dc:date>2005-09-25T16:48:00+09:00</dc:date>
-</item>
+<description>&lt;p&gt;Occasionally I like to surf the net without "big brother" looking over my shoulder. These links will let you surf without too many people knowing where you are coming from...&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=RXIagVpBKTc:2tcIoksOh5o:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=RXIagVpBKTc:2tcIoksOh5o:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=RXIagVpBKTc:2tcIoksOh5o:U940X47jMkY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=U940X47jMkY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=RXIagVpBKTc:2tcIoksOh5o:Xp3ro2EikiI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=Xp3ro2EikiI" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Perrin3/~4/RXIagVpBKTc" height="1" width="1" alt=""/&gt;</description>
+<link>http://feedproxy.google.com/~r/Perrin3/~3/RXIagVpBKTc/</link>
+<guid isPermaLink="false">http://perrin3.com/tech/no-proxy-server/</guid>
+<category>Tech</category>
+<pubDate>Sun, 25 Sep 2005 16:48:00 +0900</pubDate>
+<feedburner:origLink>http://perrin3.com/tech/no-proxy-server/</feedburner:origLink></item>
 
-<item rdf:about="http://perrin3.com/japan/japan-news-info/">
+<item>
 <title><![CDATA[Japan News &amp; Info]]></title>
-<link>http://perrin3.com/japan/japan-news-info/</link>
-<description><![CDATA[<p>This collection of links covers general Japan info sites and professional news sites.</p>
-]]></description>
-<dc:subject>Japan</dc:subject>
-<dc:creator>Bill</dc:creator>
-<dc:date>2004-10-23T18:17:07+09:00</dc:date>
-</item>
+<description>&lt;p&gt;This collection of links covers general Japan info sites and professional news sites.&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=ZZ8iaPU9Ruk:d12TrrbbnrQ:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=ZZ8iaPU9Ruk:d12TrrbbnrQ:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=ZZ8iaPU9Ruk:d12TrrbbnrQ:U940X47jMkY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=U940X47jMkY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=ZZ8iaPU9Ruk:d12TrrbbnrQ:Xp3ro2EikiI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=Xp3ro2EikiI" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Perrin3/~4/ZZ8iaPU9Ruk" height="1" width="1" alt=""/&gt;</description>
+<link>http://feedproxy.google.com/~r/Perrin3/~3/ZZ8iaPU9Ruk/</link>
+<guid isPermaLink="false">http://perrin3.com/japan/japan-news-info/</guid>
+<category>Japan</category>
+<pubDate>Sat, 23 Oct 2004 18:17:07 +0900</pubDate>
+<feedburner:origLink>http://perrin3.com/japan/japan-news-info/</feedburner:origLink></item>
 
-<item rdf:about="http://perrin3.com/japan/translating-japanese-online/">
+<item>
 <title>Translating Japanese Online</title>
-<link>http://perrin3.com/japan/translating-japanese-online/</link>
-<description><![CDATA[<p>Translating between Japanese and English can be a daunting task...luckily there 
+<description>&lt;p&gt;Translating between Japanese and English can be a daunting task...luckily there 
 are plenty of resources and tools online to 'ease the pain' a little. Most of these 
-sites require you to be able to see Japanese on your system. </p>
-]]></description>
-<dc:subject>Japan</dc:subject>
-<dc:creator>Bill</dc:creator>
-<dc:date>2003-10-23T18:11:20+09:00</dc:date>
-</item>
+sites require you to be able to see Japanese on your system. &lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=JGf6yrGlNn0:HaC0qA216Bw:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=JGf6yrGlNn0:HaC0qA216Bw:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=JGf6yrGlNn0:HaC0qA216Bw:U940X47jMkY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=U940X47jMkY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=JGf6yrGlNn0:HaC0qA216Bw:Xp3ro2EikiI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=Xp3ro2EikiI" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Perrin3/~4/JGf6yrGlNn0" height="1" width="1" alt=""/&gt;</description>
+<link>http://feedproxy.google.com/~r/Perrin3/~3/JGf6yrGlNn0/</link>
+<guid isPermaLink="false">http://perrin3.com/japan/translating-japanese-online/</guid>
+<category>Japan</category>
+<pubDate>Thu, 23 Oct 2003 18:11:20 +0900</pubDate>
+<feedburner:origLink>http://perrin3.com/japan/translating-japanese-online/</feedburner:origLink></item>
 
-<item rdf:about="http://perrin3.com/japan/japanese-search-engines/">
+<item>
 <title>Japanese Search Engines and Directories</title>
-<link>http://perrin3.com/japan/japanese-search-engines/</link>
-<description><![CDATA[<p>Information available on Japanese Search Engines in English is not very plentiful on the web. Most info is terribly outdated or extremely limited. While this page is not totally comprehensive, it does list all of the major players.</p>]]></description>
-<dc:subject>Japan</dc:subject>
-<dc:creator>Bill</dc:creator>
-<dc:date>2003-08-23T18:21:21+09:00</dc:date>
-</item>
+<description>&lt;p&gt;Information available on Japanese Search Engines in English is not very plentiful on the web. Most info is terribly outdated or extremely limited. While this page is not totally comprehensive, it does list all of the major players.&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=vjWB1fG4ZLQ:VYAOwOb23uI:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=vjWB1fG4ZLQ:VYAOwOb23uI:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=vjWB1fG4ZLQ:VYAOwOb23uI:U940X47jMkY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=U940X47jMkY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=vjWB1fG4ZLQ:VYAOwOb23uI:Xp3ro2EikiI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=Xp3ro2EikiI" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Perrin3/~4/vjWB1fG4ZLQ" height="1" width="1" alt=""/&gt;</description>
+<link>http://feedproxy.google.com/~r/Perrin3/~3/vjWB1fG4ZLQ/</link>
+<guid isPermaLink="false">http://perrin3.com/japan/japanese-search-engines/</guid>
+<category>Japan</category>
+<pubDate>Sat, 23 Aug 2003 18:21:21 +0900</pubDate>
+<feedburner:origLink>http://perrin3.com/japan/japanese-search-engines/</feedburner:origLink></item>
 
-<item rdf:about="http://perrin3.com/japan/using-ja-on-en-pc/">
+<item>
 <title>Using Japanese on an English PC</title>
-<link>http://perrin3.com/japan/using-ja-on-en-pc/</link>
-<description><![CDATA[<p>It can be confusing trying to get Japanese to work on your PC, but luckily there 
+<description>&lt;p&gt;It can be confusing trying to get Japanese to work on your PC, but luckily there 
 are a lot of other people out there that had the same problem and put up some resources 
 to help out. This is not a comprehensive guide, but rather links to sites I found 
-that can help you use Japanese on your system.</p>
-]]></description>
-<dc:subject>Japan</dc:subject>
-<dc:creator>Bill</dc:creator>
-<dc:date>2003-04-05T18:01:37+09:00</dc:date>
-</item>
+that can help you use Japanese on your system.&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=l0-YLNfdrpM:zjOGah_xY8s:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=l0-YLNfdrpM:zjOGah_xY8s:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=l0-YLNfdrpM:zjOGah_xY8s:U940X47jMkY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=U940X47jMkY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=l0-YLNfdrpM:zjOGah_xY8s:Xp3ro2EikiI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=Xp3ro2EikiI" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Perrin3/~4/l0-YLNfdrpM" height="1" width="1" alt=""/&gt;</description>
+<link>http://feedproxy.google.com/~r/Perrin3/~3/l0-YLNfdrpM/</link>
+<guid isPermaLink="false">http://perrin3.com/japan/using-ja-on-en-pc/</guid>
+<category>Japan</category>
+<pubDate>Sat, 05 Apr 2003 18:01:37 +0900</pubDate>
+<feedburner:origLink>http://perrin3.com/japan/using-ja-on-en-pc/</feedburner:origLink></item>
 
-<item rdf:about="http://perrin3.com/music/old-music/">
+<item>
 <title>ye olde 80s music page</title>
-<link>http://perrin3.com/music/old-music/</link>
-<description><![CDATA[<p>This page is dedicated to some of the bands that make life worth living. My taste 
+<description>&lt;p&gt;This page is dedicated to some of the bands that make life worth living. My taste 
 in music has been criticized for years because for the most part I seem to be stuck 
 in the 1980's. However, there are a few bands here that have survived into the 90's. 
 Regardless of their musical ability, the bands on this page are some of my favorites 
-from the New Wave, Gothic, and Industrial genres.</p>
-<p class="centertext"><a href="http://www.thecure.jp/petition/en/">
-<img src="http://perrin3.com/images/cure_banner1l.gif" alt="Petition for The Cure Live in Japan" width="348" height="63" /></a></p>]]></description>
-<dc:subject>Music</dc:subject>
-<dc:creator>Bill</dc:creator>
-<dc:date>2001-03-09T15:57:30+09:00</dc:date>
-</item>
+from the New Wave, Gothic, and Industrial genres.&lt;/p&gt;
+&lt;p class="centertext"&gt;&lt;a href="http://www.thecure.jp/petition/en/"&gt;
+&lt;img src="http://perrin3.com/images/cure_banner1l.gif" alt="Petition for The Cure Live in Japan" width="348" height="63" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=xOJvZ-ZvCgQ:dy_v_ir8m1U:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=xOJvZ-ZvCgQ:dy_v_ir8m1U:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=xOJvZ-ZvCgQ:dy_v_ir8m1U:U940X47jMkY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=U940X47jMkY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=xOJvZ-ZvCgQ:dy_v_ir8m1U:Xp3ro2EikiI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=Xp3ro2EikiI" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Perrin3/~4/xOJvZ-ZvCgQ" height="1" width="1" alt=""/&gt;</description>
+<link>http://feedproxy.google.com/~r/Perrin3/~3/xOJvZ-ZvCgQ/</link>
+<guid isPermaLink="false">http://perrin3.com/music/old-music/</guid>
+<category>Music</category>
+<pubDate>Fri, 09 Mar 2001 15:57:30 +0900</pubDate>
+<feedburner:origLink>http://perrin3.com/music/old-music/</feedburner:origLink></item>
 
-<item rdf:about="http://perrin3.com/stupid/al-gore-songs/">
+<item>
 <title>Al Gore Songs</title>
-<link>http://perrin3.com/stupid/al-gore-songs/</link>
-<description><![CDATA[<p>Al Gore went down to Florida...and other songs<p>]]></description>
-<dc:subject>Stupid</dc:subject>
-<dc:creator>Bill</dc:creator>
-<dc:date>2000-12-04T11:56:30+09:00</dc:date>
-</item>
+<description>&lt;p&gt;Al Gore went down to Florida...and other songs&lt;p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=sDCdwnfT1zw:SdF6TghhPOk:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=sDCdwnfT1zw:SdF6TghhPOk:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=sDCdwnfT1zw:SdF6TghhPOk:U940X47jMkY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=U940X47jMkY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=sDCdwnfT1zw:SdF6TghhPOk:Xp3ro2EikiI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=Xp3ro2EikiI" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Perrin3/~4/sDCdwnfT1zw" height="1" width="1" alt=""/&gt;</description>
+<link>http://feedproxy.google.com/~r/Perrin3/~3/sDCdwnfT1zw/</link>
+<guid isPermaLink="false">http://perrin3.com/stupid/al-gore-songs/</guid>
+<category>Stupid</category>
+<pubDate>Mon, 04 Dec 2000 11:56:30 +0900</pubDate>
+<feedburner:origLink>http://perrin3.com/stupid/al-gore-songs/</feedburner:origLink></item>
 
-<item rdf:about="http://perrin3.com/stupid/fake-virus/">
+<item>
 <title>Fake Virus</title>
-<link>http://perrin3.com/stupid/fake-virus/</link>
-<description><![CDATA[<p>Want a Fake Virus? Here's one done with JavaScript. Fun for the whole family.</p>]]></description>
-<dc:subject>Stupid</dc:subject>
-<dc:creator>Bill</dc:creator>
-<dc:date>1998-12-04T11:40:09+09:00</dc:date>
-</item>
+<description>&lt;p&gt;Want a Fake Virus? Here's one done with JavaScript. Fun for the whole family.&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=LU8aWY4aJRY:ko1kyjUBqyo:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=LU8aWY4aJRY:ko1kyjUBqyo:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=LU8aWY4aJRY:ko1kyjUBqyo:U940X47jMkY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=U940X47jMkY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=LU8aWY4aJRY:ko1kyjUBqyo:Xp3ro2EikiI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=Xp3ro2EikiI" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Perrin3/~4/LU8aWY4aJRY" height="1" width="1" alt=""/&gt;</description>
+<link>http://feedproxy.google.com/~r/Perrin3/~3/LU8aWY4aJRY/</link>
+<guid isPermaLink="false">http://perrin3.com/stupid/fake-virus/</guid>
+<category>Stupid</category>
+<pubDate>Fri, 04 Dec 1998 11:40:09 +0900</pubDate>
+<feedburner:origLink>http://perrin3.com/stupid/fake-virus/</feedburner:origLink></item>
 
-<item rdf:about="http://perrin3.com/stupid/textual-abuse-page/">
+<item>
 <title>The Textual Abuse Page</title>
-<link>http://perrin3.com/stupid/textual-abuse-page/</link>
-<description><![CDATA[<p><strong>WARNING:</strong></p>
-<p>This page contains some rather "bad" words...You've been warned!!!</p>
-<p>New and improved!!!! Now with a small element of randomness!!!! Weeeeee....</p>]]></description>
-<dc:subject>Stupid</dc:subject>
-<dc:creator>Bill</dc:creator>
-<dc:date>1998-12-03T17:18:17+09:00</dc:date>
-</item>
+<description>&lt;p&gt;&lt;strong&gt;WARNING:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This page contains some rather "bad" words...You've been warned!!!&lt;/p&gt;
+&lt;p&gt;New and improved!!!! Now with a small element of randomness!!!! Weeeeee....&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=0Efn__LT_7c:F8J9eoFywp4:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=0Efn__LT_7c:F8J9eoFywp4:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=0Efn__LT_7c:F8J9eoFywp4:U940X47jMkY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=U940X47jMkY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=0Efn__LT_7c:F8J9eoFywp4:Xp3ro2EikiI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=Xp3ro2EikiI" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Perrin3/~4/0Efn__LT_7c" height="1" width="1" alt=""/&gt;</description>
+<link>http://feedproxy.google.com/~r/Perrin3/~3/0Efn__LT_7c/</link>
+<guid isPermaLink="false">http://perrin3.com/stupid/textual-abuse-page/</guid>
+<category>Stupid</category>
+<pubDate>Thu, 03 Dec 1998 17:18:17 +0900</pubDate>
+<feedburner:origLink>http://perrin3.com/stupid/textual-abuse-page/</feedburner:origLink></item>
 
-<item rdf:about="http://perrin3.com/stupid/bill-and-monica-song/">
+<item>
 <title>Bill and Monica Song</title>
-<link>http://perrin3.com/stupid/bill-and-monica-song/</link>
-<description><![CDATA[<p>This song may be considered inappropriate or offensive...but what the heck...</p>]]></description>
-<dc:subject>Stupid</dc:subject>
-<dc:creator>Bill</dc:creator>
-<dc:date>1998-09-04T11:52:45+09:00</dc:date>
-</item>
+<description>&lt;p&gt;This song may be considered inappropriate or offensive...but what the heck...&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=pRj-FWb-Fjo:xGeJWeiXRT4:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=pRj-FWb-Fjo:xGeJWeiXRT4:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=pRj-FWb-Fjo:xGeJWeiXRT4:U940X47jMkY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=U940X47jMkY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=pRj-FWb-Fjo:xGeJWeiXRT4:Xp3ro2EikiI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=Xp3ro2EikiI" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Perrin3/~4/pRj-FWb-Fjo" height="1" width="1" alt=""/&gt;</description>
+<link>http://feedproxy.google.com/~r/Perrin3/~3/pRj-FWb-Fjo/</link>
+<guid isPermaLink="false">http://perrin3.com/stupid/bill-and-monica-song/</guid>
+<category>Stupid</category>
+<pubDate>Fri, 04 Sep 1998 11:52:45 +0900</pubDate>
+<feedburner:origLink>http://perrin3.com/stupid/bill-and-monica-song/</feedburner:origLink></item>
 
-<item rdf:about="http://perrin3.com/stupid/email-java/">
-<title>Kill your &quot;friend&apos;s&quot; computer</title>
-<link>http://perrin3.com/stupid/email-java/</link>
-<description><![CDATA[<p><strong>TIP:</strong><br />Copy the text from the box below and paste it into your favorite text editor 
-(like NotePad in Windows machines) and save the file as &quot;kill.html&quot; (no quotes). 
-Then, attach the file to an e-mail you send to a &quot;friend&quot;...</p>]]></description>
-<dc:subject>Stupid</dc:subject>
-<dc:creator>Bill</dc:creator>
-<dc:date>1997-12-03T20:09:50+09:00</dc:date>
-</item>
+<item>
+<title>Kill your "friend's" computer</title>
+<description>&lt;p&gt;&lt;strong&gt;TIP:&lt;/strong&gt;&lt;br /&gt;Copy the text from the box below and paste it into your favorite text editor 
+(like NotePad in Windows machines) and save the file as &amp;quot;kill.html&amp;quot; (no quotes). 
+Then, attach the file to an e-mail you send to a &amp;quot;friend&amp;quot;...&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=OduW4cd8YMc:YY9VXkGzsu4:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=OduW4cd8YMc:YY9VXkGzsu4:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=OduW4cd8YMc:YY9VXkGzsu4:U940X47jMkY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=U940X47jMkY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=OduW4cd8YMc:YY9VXkGzsu4:Xp3ro2EikiI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=Xp3ro2EikiI" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Perrin3/~4/OduW4cd8YMc" height="1" width="1" alt=""/&gt;</description>
+<link>http://feedproxy.google.com/~r/Perrin3/~3/OduW4cd8YMc/</link>
+<guid isPermaLink="false">http://perrin3.com/stupid/email-java/</guid>
+<category>Stupid</category>
+<pubDate>Wed, 03 Dec 1997 20:09:50 +0900</pubDate>
+<feedburner:origLink>http://perrin3.com/stupid/email-java/</feedburner:origLink></item>
 
-<item rdf:about="http://perrin3.com/stupid/been-in-japan-too-long/">
-<title>You know you&apos;ve been in Japan too long when...</title>
-<link>http://perrin3.com/stupid/been-in-japan-too-long/</link>
-<description><![CDATA[<p>I got most of these in an e-mail back in 1995. They've been here on my site since 
+<item>
+<title>You know you've been in Japan too long when...</title>
+<description>&lt;p&gt;I got most of these in an e-mail back in 1995. They've been here on my site since 
 1996 and have been "appropriated" by several other sites...one even copyrighted 
-them! Oh well...</p>]]></description>
-<dc:subject>Stupid</dc:subject>
-<dc:creator>Bill</dc:creator>
-<dc:date>1997-12-03T19:43:36+09:00</dc:date>
-</item>
+them! Oh well...&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=06ZWZUlHQ3U:AWPwL-6FHE8:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=06ZWZUlHQ3U:AWPwL-6FHE8:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=06ZWZUlHQ3U:AWPwL-6FHE8:U940X47jMkY"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=U940X47jMkY" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Perrin3?a=06ZWZUlHQ3U:AWPwL-6FHE8:Xp3ro2EikiI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Perrin3?d=Xp3ro2EikiI" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Perrin3/~4/06ZWZUlHQ3U" height="1" width="1" alt=""/&gt;</description>
+<link>http://feedproxy.google.com/~r/Perrin3/~3/06ZWZUlHQ3U/</link>
+<guid isPermaLink="false">http://perrin3.com/stupid/been-in-japan-too-long/</guid>
+<category>Stupid</category>
+<pubDate>Wed, 03 Dec 1997 19:43:36 +0900</pubDate>
+<feedburner:origLink>http://perrin3.com/stupid/been-in-japan-too-long/</feedburner:origLink></item>
 
 
-</rdf:RDF>
+</channel>
+</rss>

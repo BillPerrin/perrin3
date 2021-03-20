@@ -23,7 +23,7 @@ a.piclink {
 }
 
 body {
-	background: url(http://perrin3.com/images/zot/zot-statue.gif) #000000 no-repeat fixed top right;
+	background: url(../images/zot/zot-statue.gif) #000000 no-repeat fixed top right;
 	font: 100% Arial, Helvetica, sans-serif;
 	margin: 0px 7px;
 }
@@ -170,7 +170,7 @@ textarea[id="comment-text"] {
 }
 
 #header {
-	background: url(http://perrin3.com/images/zot/zot-banner-faces.jpg) no-repeat center;
+	background: url(../images/zot/zot-banner-faces.jpg) no-repeat center;
 	height: 250px;
 }
 
@@ -184,7 +184,7 @@ textarea[id="comment-text"] {
 }
 
 #sidebar {
-	background: url(http://perrin3.com/images/10x10trans.png) repeat;
+	background: url(../images/10x10trans.png) repeat;
 	color: #ffff00;
 	float: right;
 	font-size: .8em;
